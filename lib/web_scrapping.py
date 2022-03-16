@@ -1,3 +1,8 @@
+"""Web scrapping script
+
+This script to collect proposed master thesis topics from HTML files collected from faculty website
+
+"""
 from bs4 import BeautifulSoup
 import re
 import os

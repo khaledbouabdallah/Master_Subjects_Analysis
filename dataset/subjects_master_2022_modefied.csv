@@ -1,4 +1,4 @@
-Id,Title,Author,Grade,Taken,Priority 1,Priority 2,Priority 3,Priority 4,Priority 5,Date,Time,Subject
+Id,Title,Teacher,Grade,Taken,Priority 1,Priority 2,Priority 3,Priority 4,Priority 5,Date,Time,Subject
 1499,IoT for remote monitoring in Algeria,KHABABA  Abdallah,Professeur,TRUE,F3I,IDTW,IFIA,GL,RSD,1/4/2022,9:49:23,Iot
 1501,"Development, Usability, and Efficiancy of a Serious Game in aiding to regain cognitive functions.",KHABABA  Abdallah,Professeur,TRUE,GL,IFIA,F3I,IDTW,RSD,1/2/2022,19:21:14,
 1502,Conception et Réalisation d’un système de réalité augmentée appliquée aux opérations sur les systèmes Industriels. (Ingénierie et outils numériques),KHABABA  Abdallah,Professeur,TRUE,F3I,RSD,IDTW,GL,IFIA,1/16/2022,12:13:05,

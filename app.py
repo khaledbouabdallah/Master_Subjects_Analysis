@@ -3,13 +3,14 @@ import streamlit as st
 import pandas as pd
 
 # Custom packages
-import lib.preprocessing as preprocessing
+from lib.preprocessing import prepare_data
+import streamlit_page.generalstats as generalstats
 
-FILE_PATH = '../dataset/subjects_master_2022_modefied.csv'
+FILE_PATH = 'dataset/subjects_master_2022_modefied.csv'
 
 def main():
     path_to_data = ''
-    df, exception = load_external_data(path_to_data)
+    df, exception = load_external_data(FILE_PATH)
     create_layout(df)
 
 
@@ -33,28 +34,28 @@ def load_external_data(path: str) -> Tuple[pd.DataFrame, Exception]:
 
     exception = False
     try:
-        df = preprocessing.prepare_data(path)
+        df = prepare_data(path)
         return df, False
     except Exception as exception:
         return False, exception
 
 
 def load_homepage() -> None:
-    """ The homepage is loaded using a combination of .write and .markdown.
-    Due to some issues with emojis incorrectly loading in markdown st.write was
-    used in some cases.
-    When this issue is resolved, markdown will be used instead.
-    """
-    st.image("https://raw.githubusercontent.com/MaartenGr/boardgame/master/images/logo_small.jpg",
+    """ Create Home page"""
+
+    st.image("images/badge.png",
              use_column_width=True)
     st.markdown("> A Dashboard for the Board Game Geeks among us")
-    st.write("As many Board Game Geeks like myself track the scores of board game matches "
-             "I decided to create an application allowing for the exploration of this data. "
-             "Moreover, it felt like a nice opportunity to see how much information can be "
-             "extracted from relatively simple data.")
-    st.write("As a Data Scientist and self-proclaimed Board Game Nerd I obviously made sure to "
-             "write down the results of every board game I played. The data in the application "
-             "is currently my own, but will be extended to include those of others.")
+    st.markdown("""
+    After the release of the proposed thesis subjects, I was curious, and I had so many questions ... for example:
+- Most proposed subject (trending subject)
+- Most prioritized specialty in our department
+- Percentage of affected/unaffected topics.
+- What makes a topic undesirable (Why some topics didn't get chosen)
+So to kill my curiosity, I created an Interactive Dashboard to explore the data.
+Also, it felt like a nice opportunity to see how much information can be extracted from relatively simple data.
+    """)
+    st.markdown("You can check the GITHUB repository for more information: [link](https://github.com/khaledbouabdallah/Master_Subjects_Analysis)")
     st.markdown("<div align='center'><br>"
                 "<img src='https://img.shields.io/badge/MADE%20WITH-PYTHON%20-red?style=for-the-badge'"
                 "alt='API stability' height='25'/>"
@@ -64,24 +65,19 @@ def load_homepage() -> None:
                 "alt='API stability' height='25'/></div>", unsafe_allow_html=True)
     for i in range(3):
         st.write(" ")
-    st.header("🎲 The Application")
+    st.header("📉 The Application 📉")
     st.write("This application is a Streamlit dashboard hosted on Heroku that can be used to explore "
              "the results from board game matches that I tracked over the last year.")
     st.write("There are currently four pages available in the application:")
-    st.subheader("♟ General Statistics ♟")
-    st.markdown("* This gives a general overview of the data including frequency of games over time, "
-                "most games played in a day, and longest break between games.")
-    st.subheader("♟ Player Statistics ♟")
-    st.markdown("* As you play with other people it would be interesting to see how they performed. "
-                "This page allows you to see, per player, an overview of their performance across games.")
-    st.markdown("* This also includes a one-sample Wilcoxon signed-rank test to test if a player performs "
-                "significantly better/worse than the average for one board game.")
-    st.subheader("♟ Head to Head ♟")
-    st.markdown("* I typically play two-player games with my wife and thought it would be nice to include a "
-                "head to head page. This page describes who is the better of two players between and within games.")
-    st.subheader("♟ Explore Games ♟")
-    st.markdown("* This page serves to show statistics per game, like its distribution of scores, frequency of "
-                "matches and best/worst players.")
+    st.subheader("📄 General Statistics 📄")
+    st.markdown("* This page contains basic exploratory data analyses for the purpose"
+                " of getting a general feeling of what the data contains.")
+    st.subheader("📄 Teacher Statistics 📄")
+    st.markdown("* Coming Soon ")
+    st.subheader("📄 Speciality Statistics 📄")
+    st.markdown("* Coming Soon ")
+    st.subheader("📄 Subject Statistics 📄")
+    st.markdown("* Coming Soon ")
 
 
 def create_layout(df: pd.DataFrame) -> None:
@@ -94,8 +90,8 @@ def create_layout(df: pd.DataFrame) -> None:
 
     st.sidebar.title("Menu")
     app_mode = st.sidebar.selectbox("Please select a page", ["Homepage",
-                                                             "Data Exploration",
-                                                             "Author Statistics",
+                                                             "General Statistics",
+                                                             "Teacher Statistics",
                                                              "Speciality Statistics",
                                                              "Subject Statistics"])
     if app_mode == 'Homepage':
@@ -103,18 +99,17 @@ def create_layout(df: pd.DataFrame) -> None:
     elif app_mode == "Instruction":
         body = " ".join(open("files/instructions.md", 'r').readlines())
         st.markdown(body, unsafe_allow_html=True)
-    elif app_mode == "Data Exploration":
-        pass
-        # generalstats.load_page(df)
-    elif app_mode == "Player Statistics":
-        pass
-        # playerstats.load_page(df, player_list)
-    elif app_mode == "Game Statistics":
-        pass
-        # exploregames.load_page(df, player_list)
-    elif app_mode == "Head to Head":
-        pass
-        # headtohead.load_page(df, player_list)
+    elif app_mode == "General Statistics":
+        generalstats.load_page(df)
+    elif app_mode == "Teacher Statistics":
+        st.markdown("* Coming Soon ")
+
+    elif app_mode == "Speciality Statistics":
+        st.markdown("* Coming Soon ")
+
+    elif app_mode == "Subject Statistics":
+        st.markdown("* Coming Soon ")
+
 
 
 if __name__ == "__main__":
