@@ -232,7 +232,7 @@ def what_is_the_most_prioritized_specialty(df: pd.DataFrame) -> None:
                 averages[speciality] += counts[speciality] * int(priority)
 
         for speciality in df['Priority 1'].unique():
-            averages[speciality] = round(averages[speciality] / (1 * 2 * 3 * 4 * 5), 2)
+            averages[speciality] = round(averages[speciality] / len(df.index), 2)
         df3 = pd.Series(averages)
         df3 = df3.to_frame().reset_index()
         df3 = df3.rename(columns={0: 'Average'})
