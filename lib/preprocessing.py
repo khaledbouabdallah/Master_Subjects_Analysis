@@ -8,7 +8,7 @@ def prepare_data(path: str) -> pd.DataFrame:
     -----------
 
     path : str
-        Path to the dataset, file should be in csv.
+        Path to the dataset, file should be in csv format.
 
     Returns:
     --------
