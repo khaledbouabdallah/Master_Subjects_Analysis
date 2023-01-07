@@ -1,6 +1,6 @@
 """Web scrapping script
 
-This script to collect proposed master thesis topics from HTML files collected from faculty website
+This script scrap master thesis topics data from my faculty website
 
 """
 from bs4 import BeautifulSoup
@@ -9,11 +9,11 @@ import os
 import json
 import pandas as pd
 
-DATA_PATH = "raw_data/"
+DATA_PATH = "../htmls/"
 
 articles = []
 for file_name in os.listdir(DATA_PATH):  # Iterate over the HTML raw files
-    with open(DATA_PATH + file_name, "r", encoding='utf-8') as f:
+    with open(DATA_PATH + file_name, "r",encoding='utf-8') as f:
         html_doc = f.read()
     soup = BeautifulSoup(html_doc, 'html.parser')
     # Get table that contains the information we are interested in
@@ -55,10 +55,7 @@ for file_name in os.listdir(DATA_PATH):  # Iterate over the HTML raw files
             }
             articles.append(article_dict)
 
-# Saving in JSON
-with open('dataset/result.json', 'w') as fp:
-    json.dump(articles, fp)
 
 # Saving in CSV
-df = pd.read_json(r'dataset/result.json')
-df.to_csv(r'dataset/subjects_master_2022.csv', index=None)
+df =  pd.DataFrame(articles)
+df.to_csv('subjects_master_2023.csv', index=None)

@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 import altair as alt
 import streamlit as st
-from scipy.stats import wilcoxon
 from typing import List, Tuple, Dict
 
 SPACES = '&nbsp;' * 10

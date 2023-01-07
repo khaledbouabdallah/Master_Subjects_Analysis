@@ -1,0 +1,145 @@
+Id,Title,Author,Grade,Taken,Priority 1,Priority 2,Priority 3,Priority 4,Priority 5,Date,Time
+1722,Eenrichissement de la sémantique des diagrammes d’états –transition .transformation vers Maude,KHABABA  Abdallah,Professeur,False,GL,RSD,IDTW,F3I,IFIA,2022-11-13,20:46:59
+1748,les activités d’élicitation et analyse des exigences au contexte aux projets  Big Data,KHABABA  Abdallah,Professeur,False,IDTW,GL,RSD,IFIA,F3I,2022-11-17,07:11:38
+1758,creating 3D minimap for navigation in VR,KHABABA  Abdallah,Professeur,False,IDTW,RSD,GL,F3I,IFIA,2022-11-17,15:58:26
+1829,Machine learning to predict Antimicriobial Resistance of Acinetobacter Baumannii,KAMEL  Nadjet,Professeur,False,IDTW,IFIA,F3I,RSD,GL,2022-11-19,08:53:16
+1830,Prétraitement de données pour la classification des sols,KAMEL  Nadjet,Professeur,False,IDTW,IFIA,F3I,RSD,GL,2022-11-19,09:01:30
+1839,Sequential Pattern Mining for SARS-CoV-2,KAMEL  Nadjet,Professeur,False,IDTW,IFIA,F3I,RSD,GL,2022-11-19,13:45:21
+1744,Deep Learning Models for Colorectal Cancer Detection and Classification,MOUSSAOUI  Abdelouahab,Professeur,False,IDTW,F3I,IFIA,GL,RSD,2022-11-16,18:17:33
+1745,Fully Attention Convolutional Deep Neural Networks for Polyp Segmentation from Histological Images and/or Colonoscopy Video,MOUSSAOUI  Abdelouahab,Professeur,False,IDTW,F3I,IFIA,GL,RSD,2022-11-18,20:29:27
+1746,Efficient Deep Multimodal Self-Supervised Learning for Epileptic Seizures Detection Using EEG Signals,MOUSSAOUI  Abdelouahab,Professeur,False,IDTW,F3I,IFIA,GL,RSD,2022-11-26,13:27:54
+1747,Deep Vision Transformer for Heart Disease Classification and Prediction,MOUSSAOUI  Abdelouahab,Professeur,False,IDTW,F3I,IFIA,GL,RSD,2022-11-16,23:07:33
+1774,Ensemble Deep Learning-based Semantic Segmentation and Classification of Leaves Images for Agricultural Plants Diseases’ Detection,MOUSSAOUI  Abdelouahab,Professeur,False,IDTW,F3I,IFIA,GL,RSD,2022-11-18,15:20:26
+1777,Plant leaf Disease Classification Using Deep Learning Transformers Driven Bayesian Learning and Regularization,MOUSSAOUI  Abdelouahab,Professeur,False,IDTW,F3I,IFIA,GL,RSD,2022-11-18,19:16:40
+1780,Proteomic Profiles Selection and Patients’ Cancer Classification Based on Bio-inspired Algorithms and Deep Learning,MOUSSAOUI  Abdelouahab,Professeur,False,IDTW,F3I,IFIA,GL,RSD,2022-11-18,15:18:32
+1782,Hybridization of Deep and Generative Models for Accurate Generation and Classification Chest X-ray Abnormalities,MOUSSAOUI  Abdelouahab,Professeur,False,F3I,IDTW,IFIA,GL,RSD,2022-11-18,14:33:29
+1790,Multimodal Brain MRI/fMRI Image Generation and Classification Using GAN Architectures and Deep Attention CNN Models,MOUSSAOUI  Abdelouahab,Professeur,False,F3I,IDTW,IFIA,GL,RSD,2022-11-18,18:27:48
+1796,Arrhythmia Classification of Physiological Signals ECG/MEG with Deep Neural Networks Models,MOUSSAOUI  Abdelouahab,Professeur,False,F3I,IDTW,IFIA,GL,RSD,2022-11-18,19:10:53
+1900,Protein Structure Detection by AlphaFold and GNN Attention Deep Learning Models,MOUSSAOUI  Abdelouahab,Professeur,False,F3I,IDTW,IFIA,GL,RSD,2022-11-25,20:09:04
+1901,Multiple Sclerosis Detection from MRI Images dataset  using Deep Learning Transformers and Variational Autoencoder,MOUSSAOUI  Abdelouahab,Professeur,False,F3I,IDTW,IFIA,GL,RSD,2022-11-26,08:32:00
+1903,Plant Species Identification Using Siamese Network Architecture and Deep Boltzmann Machine Algorithm,MOUSSAOUI  Abdelouahab,Professeur,False,F3I,IDTW,IFIA,GL,RSD,2022-11-26,09:31:55
+1904,Deep Belief Networks Applied  to Alzheimer's Disease Detection and Classification using Neuroimaging Data,MOUSSAOUI  Abdelouahab,Professeur,False,F3I,IDTW,IFIA,GL,RSD,2022-11-26,13:24:24
+1771,Développement de systèmes d'information distribués,SAIDI  Mohamed,Maitre de conferences classe A,False,GL,IDTW,RSD,F3I,IFIA,2022-11-18,09:51:11
+1772,Intégration de systèmes d'information distribués,SAIDI  Mohamed,Maitre de conferences classe A,False,GL,IDTW,RSD,F3I,IFIA,2022-11-18,09:53:30
+1752,WSN hétérogène basé sur des agents intelligents à faible consommation d'énergie pour la collecte de données.,ALIOUAT née ZOUAOUI  Zibouda,Professeur,False,IFIA,RSD,IDTW,F3I,GL,2022-11-17,08:09:42
+1835,Approche bio-inspiré pour la sécurité de l’internet des objets,ALIOUAT née ZOUAOUI  Zibouda,Professeur,False,IFIA,RSD,IDTW,F3I,GL,2022-11-19,12:23:29
+1857,Collecte et exploitation de données spatio-temporelles relatives aux accidents de la route,DOUIDI  Lamri,Maitre de conferences classe B,False,IDTW,GL,IFIA,F3I,RSD,2022-11-19,19:59:26
+1859,"Application pour acquisition, traitement et exploitation des données sur les accidents de la route",DOUIDI  Lamri,Maitre de conferences classe B,False,IDTW,GL,IFIA,RSD,F3I,2022-11-19,20:08:00
+1821,Détection d'injections SQL au moyen de techniques du Deep Learning,BENZINE  Mehdi,Maitre de conferences classe B,False,IDTW,F3I,IFIA,GL,RSD,2022-11-19,08:30:43
+1822,Détection des attaques de type XSS grâce à des techniques de Deep Learning,BENZINE  Mehdi,Maitre de conferences classe B,False,IDTW,IFIA,F3I,GL,RSD,2022-11-19,07:54:56
+1808,Hamiltonian Monte Carlo (HMC) Inference in Item Response Theory,KHENTOUT née HARBOUCHE  Khadidja,Maitre de conferences classe B,False,IDTW,IFIA,RSD,F3I,GL,2022-11-18,22:21:42
+1809,Variational Inference in Item Response Theory,KHENTOUT née HARBOUCHE  Khadidja,Maitre de conferences classe B,False,IDTW,IFIA,RSD,F3I,GL,2022-11-18,22:24:38
+1761,Enhancing a Collaborative Recommender System Based on Deep Learning for Online Resources,ZAIMEN née MEDIANI  Chahrazed,Maitre de conferences classe B,False,IDTW,F3I,IFIA,RSD,GL,2022-11-17,18:02:37
+1762,Enhancing a Content-Based Recommender System using Deep Learning for Online Resources,ZAIMEN née MEDIANI  Chahrazed,Maitre de conferences classe B,False,IDTW,F3I,IFIA,RSD,GL,2022-11-17,18:05:40
+1763,A Deep Learning Model for the Diagnosis of Critical Diseases,ZAIMEN née MEDIANI  Chahrazed,Maitre de conferences classe B,False,IDTW,F3I,IFIA,RSD,GL,2022-11-17,18:13:49
+1764,Sentiment Analysis with Deep learning for the Arabic language,ZAIMEN née MEDIANI  Chahrazed,Maitre de conferences classe B,False,F3I,IDTW,IFIA,RSD,GL,2022-11-17,18:16:44
+1842,Sécurisation des données dans les systèmes Blockchain,ZAIMEN née MEDIANI  Chahrazed,Maitre de conferences classe B,False,F3I,RSD,IDTW,IFIA,GL,2022-11-19,16:57:00
+1789,Security in IoT,MECHTA  Djamila,Maitre de conferences classe A,False,RSD,IDTW,IFIA,F3I,GL,2022-11-18,18:19:24
+1791,"AI-based offloading, task scheduling and resource allocation",MECHTA  Djamila,Maitre de conferences classe A,False,RSD,IDTW,F3I,IFIA,GL,2022-11-18,18:36:06
+1793,Task scheduling and resource allocation,MECHTA  Djamila,Maitre de conferences classe A,False,RSD,IDTW,IFIA,F3I,GL,2022-11-18,18:45:21
+1800,Simulation de Scénarios IoT Orienté Agent,LAOUADI  Mohamed Amin,Maitre de conferences classe B,False,IFIA,IDTW,RSD,F3I,GL,2022-11-18,20:29:54
+1801,Intégration de Système Multi-Agent dans l'Internet des Objets,LAOUADI  Mohamed Amin,Maitre de conferences classe B,False,IFIA,IDTW,RSD,F3I,GL,2022-11-18,20:39:14
+1775,Vers une solution de Sécurité à l'aide d'un algorithme d'immunité artificielle pour les réseaux mobiles sans infrastructure,BEGHRICHE  Abdesselem,Maitre de conferences classe B,False,RSD,IFIA,IDTW,GL,F3I,2022-11-18,11:17:44
+1778,Vers une solution pour améliorer la qualité de service (QoS) dans les réseaux de télécommunications de 4éme génération.,BEGHRICHE  Abdesselem,Maitre de conferences classe B,False,RSD,IDTW,GL,IFIA,F3I,2022-11-18,11:46:29
+1805,Secure Time Synchronization in Wireless Sensor Networks,AISSAOUA  Habib,Maitre de conferences classe B,False,RSD,IFIA,IDTW,F3I,GL,2022-11-19,18:20:36
+1846,IoT Security in Healthcare,AISSAOUA  Habib,Maitre de conferences classe B,False,RSD,IFIA,IDTW,F3I,GL,2022-11-19,18:19:31
+1834,Protocole GPS-based pour la localisation des véhicules dans l’IoT,BENAIDJA  Amira,Maitre de conferences classe B,False,RSD,IDTW,IFIA,F3I,GL,2022-11-19,15:58:36
+1841,Protocole Non-GPS based pour la localisation des véhicules dans l’IoT,BENAIDJA  Amira,Maitre de conferences classe B,False,RSD,IDTW,IFIA,F3I,GL,2022-11-19,15:52:35
+1863,Extraction des caractéristiques des images d'expression génétique : comparaison entre les Auto-Encodeurs et l’ACP,MEKROUD  Noureddine,Maitre assistant classe A,False,F3I,IFIA,IDTW,GL,RSD,2022-11-19,21:24:42
+1864,Deep Learning et modélisation de l’incertain pour la compression des données imprécises d'expression génétique,MEKROUD  Noureddine,Maitre assistant classe A,False,F3I,IFIA,IDTW,GL,RSD,2022-11-19,21:28:36
+1848,Implémentation d'une primitive cryptographique au service des signatures anonymes,KHARCHI  Samia,Maitre assistant classe A,False,RSD,IDTW,IFIA,GL,F3I,2022-11-19,18:11:16
+1849,Conception et implémentation d'une application de signatures électroniques,KHARCHI  Samia,Maitre assistant classe A,False,RSD,IDTW,IFIA,GL,F3I,2022-11-19,18:32:53
+1875,Une version Cross-Layer pour le protocole OLSR,HAMMOUCHE  Yassine,Maitre assistant classe A,False,RSD,IFIA,IDTW,F3I,GL,2022-11-20,07:42:50
+1876,La reconnaissance des panneaux de circulation (cas de limitateur de vitesse): état de l'art.,HAMMOUCHE  Yassine,Maitre assistant classe A,False,F3I,IFIA,GL,RSD,IDTW,2022-11-20,07:59:49
+1701,Détection des intrusions pour l’internet des objets en utilisant des techniques d’apprentissage approfondi,FENANIR  Samir,Maitre de conferences classe B,False,IFIA,F3I,RSD,IDTW,GL,2022-11-07,09:15:20
+1739,Une Smart agriculture pour lutter contre les bioagresseurs des céréales,FENANIR  Samir,Maitre de conferences classe B,False,F3I,IFIA,IDTW,RSD,GL,2022-11-16,09:26:14
+1879,A Deep Learning Approach to Detecting Offensive Tweets,LAKHFIF  Abdelaziz,Maitre de conferences classe A,False,IDTW,IFIA,RSD,F3I,GL,2022-11-20,12:37:55
+1880,A BERT-based Approach for Implicit Emotion Classification,LAKHFIF  Abdelaziz,Maitre de conferences classe A,False,IDTW,RSD,IFIA,F3I,GL,2022-11-20,12:46:10
+1881,ML based approach for event detection in twitter datastreams,LAKHFIF  Abdelaziz,Maitre de conferences classe A,False,IDTW,RSD,F3I,IFIA,GL,2022-11-20,12:51:28
+1882,An Avatar based approach for automatically interpreting Algerian Sign Language Dictionary,LAKHFIF  Abdelaziz,Maitre de conferences classe A,False,IDTW,F3I,RSD,IFIA,GL,2022-11-20,13:00:40
+1885,A probabilistic approach for Temporal Link Prediction,LAKHFIF  Abdelaziz,Maitre de conferences classe A,False,IDTW,F3I,GL,RSD,IFIA,2022-11-27,21:35:08
+1902,Towards the building of an Arabic corpus for Fake news detection,LAKHFIF  Abdelaziz,Maitre de conferences classe A,False,IDTW,IFIA,F3I,RSD,GL,2022-11-25,22:38:12
+1907,Help twitter to Identify Bots,TOUMI  Lyazid,Maitre de conferences classe A,False,IDTW,GL,F3I,RSD,IFIA,2022-11-26,22:28:23
+1908,Link Prediction in Social network with Artificial Intelligence,TOUMI  Lyazid,Maitre de conferences classe A,False,IDTW,GL,F3I,RSD,IFIA,2022-11-26,22:27:30
+1725,Optimisation de la localisation dans les reseaux de capteurs sans fil :,LALAMA  Zahia,Maitre assistant classe A,False,RSD,IDTW,IFIA,F3I,GL,2022-11-14,11:43:48
+1843,Etude des performances du protocole TSCH dans les IOTs,BANABIREZ née ZERGUINE  Nadia,Maitre de conferences classe B,False,RSD,IFIA,IDTW,GL,F3I,2022-11-19,18:48:54
+1851,L'intelligence artificielle pour améliorer le protocole Mac TSCH dans les IIOTs,BANABIREZ née ZERGUINE  Nadia,Maitre de conferences classe B,False,RSD,IFIA,IDTW,GL,F3I,2022-11-19,18:44:29
+1734,Recommender system based on graph learning model.,DRIF  Ahlem,Maitre de conferences classe A,False,IFIA,IDTW,F3I,RSD,GL,2022-11-19,16:20:42
+1736,Fact checking and fake news detection models for online social media.,DRIF  Ahlem,Maitre de conferences classe A,False,IFIA,IDTW,F3I,RSD,GL,2022-11-19,10:46:50
+1759,"Etude à l’aide de la fouille de données, des demandes de crédits des clients d’une banque.",AMRANI  Lakhdar,Maitre assistant classe A,False,F3I,IDTW,GL,IFIA,RSD,2022-11-17,16:55:45
+1760,Ciblage de clientèle d’une compagnie d’assurance à l’aide de la fouille de données.,AMRANI  Lakhdar,Maitre assistant classe A,False,F3I,IDTW,GL,IFIA,RSD,2022-11-17,17:03:25
+1804,uFAS - Study Portal,BOUAMARI  Abdelkader,Maitre assistant classe A,False,IDTW,GL,F3I,IFIA,RSD,2022-11-18,21:54:35
+1807,uFAS - Academy Portal,BOUAMARI  Abdelkader,Maitre assistant classe A,False,IDTW,GL,F3I,IFIA,RSD,2022-11-18,21:57:36
+1798,Optimization of GAN’s parameters using metaheuristics,ZAZOUA née DJEMAME  Safia,Maitre de conferences classe A,False,F3I,IDTW,IFIA,GL,RSD,2022-11-18,19:39:39
+1799,"Study and comparison of quantum metaheuristics algorithms : Qfirefly, Qdolphin and Qwolves algorithms",ZAZOUA née DJEMAME  Safia,Maitre de conferences classe A,False,IFIA,IDTW,F3I,GL,RSD,2022-11-18,19:47:10
+1899,An Intelligent system for prediction of  customers' actions based on a company database and market data.,ZAZOUA née DJEMAME  Safia,Maitre de conferences classe A,False,IFIA,F3I,IDTW,GL,RSD,2022-11-25,20:01:43
+1802,generation automatique des objets 3D,DOUAR  Amel,Maitre assistant classe A,False,IDTW,IFIA,F3I,GL,RSD,2022-11-18,21:05:19
+1803,classification automatique des taches des travaux pratiques,DOUAR  Amel,Maitre assistant classe A,False,IFIA,IDTW,F3I,GL,RSD,2022-11-18,21:06:21
+1713,Blockchain technology applications for Industry 4.0,GOUDJIL  Lakhdar,Maitre assistant classe A,False,IDTW,RSD,IFIA,F3I,GL,2022-11-11,21:49:27
+1714,The Use of Blockchain For The Internet Of Things  in healthcare,GOUDJIL  Lakhdar,Maitre assistant classe A,False,RSD,IDTW,GL,IFIA,F3I,2022-11-11,22:44:26
+1814,Modèle d’apprentissage profond bio-inspiré pour la reconnaissance d’objets,KHALFALLAH née HADI  Fairouz,Maitre de conferences classe B,False,IFIA,F3I,RSD,IDTW,GL,2022-11-18,23:46:15
+1815,La récupération d'images médicales à l’aide du Deep Learning,KHALFALLAH née HADI  Fairouz,Maitre de conferences classe B,False,IFIA,F3I,RSD,IDTW,GL,2022-11-18,23:51:30
+1896,Implémentation d’un algorithme auto-stabilisant pour le calcul d’un ensemble indépendant,GUELLATI  Nabil,Maitre de conferences classe B,False,GL,RSD,IDTW,IFIA,F3I,2022-11-23,08:31:27
+1731,Implémentation d’un algorithme auto-stabilisant pour le calcul d’un ensemble dominant,GUELLATI  Nabil,Maitre de conferences classe B,False,GL,RSD,IDTW,IFIA,F3I,2022-11-23,08:26:26
+1818,Artificial rabbits optimization for Tuning deep learning parameters,SEMCHEDINE  Moussa,Maitre de conferences classe A,False,F3I,IDTW,IFIA,RSD,GL,2022-11-19,05:58:01
+1706,Design and implementation of software platform for bioinspired optimization algorithms,SEMCHEDINE  Moussa,Maitre de conferences classe A,False,F3I,IDTW,IFIA,RSD,GL,2022-11-08,20:03:50
+1865,Modeling of gene regulatory networks using convolutional neural networks,BRAHIM-SALEM  Fatiha,Maitre assistant classe A,False,F3I,IFIA,IDTW,GL,RSD,2022-11-19,22:07:47
+1866,Inference of gene regulatory networks using genetic algorithm,BRAHIM-SALEM  Fatiha,Maitre assistant classe A,False,F3I,IFIA,IDTW,GL,RSD,2022-11-19,22:09:37
+1684,Megatron project (the software part),KARA  Abdelaziz,Maitre assistant classe A,False,RSD,F3I,IDTW,IFIA,GL,2022-10-31,12:27:36
+1685,Megatron project (hardware part),KARA  Abdelaziz,Maitre assistant classe A,False,RSD,F3I,IFIA,IDTW,GL,2022-10-31,12:30:47
+1852,RPL-Based Routing Protocols in IoT Applications,MANSOURI  Houceme,Maitre de conferences classe A,False,RSD,IDTW,IFIA,F3I,GL,2022-11-19,19:02:29
+1854,Performance Evaluation of LOADng Routing Protocol in IoT,MANSOURI  Houceme,Maitre de conferences classe A,False,RSD,IDTW,IFIA,F3I,GL,2022-11-19,19:04:58
+1735,Classification and Forecasting using Deep Learning Approach for Time Series Gene Expression Data,NASRI  Khaled,Maitre assistant classe A,False,IDTW,F3I,IFIA,GL,RSD,2022-11-15,21:10:08
+1751,Brain Tumor Segmentation Using Unet,NASRI  Khaled,Maitre assistant classe A,False,F3I,IDTW,IFIA,GL,RSD,2022-11-17,07:56:50
+1709,CNN for Aspect Based Arabic Sentiment Analysis,TEBBANI  Fatiha,Maitre assistant classe A,False,F3I,IFIA,GL,IDTW,RSD,2022-11-10,13:59:40
+1710,RNN for Aspect Based Arabic Sentiment Analysis,TEBBANI  Fatiha,Maitre assistant classe A,False,F3I,IFIA,GL,IDTW,RSD,2022-11-10,14:07:21
+1823,Les protocoles de communication dans les réseaux IoT.,KANOUNI  Lakhdar,Maitre assistant classe A,False,RSD,IFIA,F3I,IDTW,GL,2022-11-19,08:16:00
+1824,La délivrance des données dans les réseaux IoT.,KANOUNI  Lakhdar,Maitre assistant classe A,False,RSD,IFIA,F3I,IDTW,GL,2022-11-19,08:16:59
+1869,Etude comparative des protocoles de détection des nœuds frontières dans les réseaux de capteurs sans fil.,LAMRAOUI  Amar,Maitre assistant classe A,False,RSD,IDTW,IFIA,F3I,GL,2022-11-19,22:27:50
+1870,Implémentation d’un protocole de routage dans les réseaux de capteurs sans fil a base d'un système de cordonnées virtuelles,LAMRAOUI  Amar,Maitre assistant classe A,False,RSD,IDTW,IFIA,F3I,GL,2022-11-19,22:36:07
+1732,Application de l’algorithme Fixed Set Search aux problèmes d’optimisation combinatoire,BOUAMAMA  Salim,Professeur,False,RSD,IFIA,IDTW,F3I,GL,2022-11-15,19:33:10
+1733,Biobjective optimization approach for the minimum weight dominating set,BOUAMAMA  Salim,Professeur,False,RSD,IDTW,IFIA,GL,F3I,2022-11-15,19:46:52
+1833,Conception et réalisation d'une application pour la gestion numérique de l'école (e-school),BESSOU  Sadik,Maitre de conferences classe A,False,IDTW,GL,F3I,IFIA,RSD,2022-11-19,10:48:23
+1858,Role of Text Pre-Processing in Arabic Sentiment Analysis on social media; Use case: Algerian dialect sentiment analysis on Twitter.,BESSOU  Sadik,Maitre de conferences classe A,False,IDTW,F3I,IFIA,GL,RSD,2022-11-19,19:59:36
+1888,High utility itemsets mining,KARA Mohamed  Chafia,Maitre de conferences classe A,False,IDTW,F3I,IFIA,RSD,GL,2022-11-21,08:58:17
+1978,Sentiment Analysis using Machine Learning,KARA Mohamed  Chafia,Maitre de conferences classe A,False,IFIA,F3I,IDTW,RSD,GL,2022-12-20,12:58:24
+1770,Pre-processing for medical images,KARA Mohamed  Chafia,Maitre de conferences classe A,False,F3I,IFIA,IDTW,RSD,GL,2022-11-18,09:50:36
+1773,Context-independent word embedding methods in deep learning for Arabic document classification.,KARA Mohamed  Chafia,Maitre de conferences classe A,False,IDTW,IFIA,F3I,RSD,GL,2022-11-18,09:55:11
+1812,Edge Computing in Internet of Things,GHERBI  Chirihane,Maitre de conferences classe A,False,RSD,IFIA,IDTW,F3I,GL,2022-11-25,07:13:15
+1813,Machine Learning for Securing Software-Defined Networking,GHERBI  Chirihane,Maitre de conferences classe A,False,RSD,IFIA,IDTW,F3I,GL,2022-11-19,08:50:14
+1871,Sentiment Analysis for Arabic Code-Switched Text Data,Harrag  Fouzi,Maitre de conferences classe A,False,IDTW,F3I,IFIA,GL,RSD,2022-11-20,23:33:13
+1872,Exploring Anti-Muslim Bias in Generative Models,Harrag  Fouzi,Maitre de conferences classe A,False,IDTW,F3I,IFIA,GL,RSD,2022-11-21,00:19:59
+1873,Ethical Natural Language Interventions to controll Text-to-Image Generative Models,Harrag  Fouzi,Maitre de conferences classe A,False,F3I,IDTW,IFIA,GL,RSD,2022-11-21,00:21:43
+1874,Fighting Deepfake texts via Controllable Text Generation,Harrag  Fouzi,Maitre de conferences classe A,False,F3I,IDTW,IFIA,GL,RSD,2022-11-21,00:18:28
+1810,Security and authentication in Internet of things,Cherbal  Sara,Maitre de conferences classe A,False,RSD,IDTW,IFIA,F3I,GL,2022-11-18,22:33:24
+1811,Blockchain security in internet of things,Cherbal  Sara,Maitre de conferences classe A,False,RSD,IDTW,IFIA,F3I,GL,2022-11-18,22:41:02
+1781,Approches heuristiques et métaheuristiques pour le problème de l'ensemble dominant à poids minimal dans les graphes orientés,BALBAL  Samir,Maitre de conferences classe B,False,IDTW,RSD,IFIA,F3I,GL,2022-11-18,14:04:08
+1783,Placement de services de sécurité dans l’IoT,BALBAL  Samir,Maitre de conferences classe B,False,RSD,IDTW,F3I,IFIA,GL,2022-11-18,14:45:17
+1765,Apprentissage par renforcement pour la reconnaissance de la parole,Frihia  hamza,Maitre de conferences classe B,False,IFIA,F3I,IDTW,GL,RSD,2022-11-17,20:59:40
+1794,Smart Web application to support medical diagnosis decision making,Ferradji  mohamed,Maitre de conferences classe B,False,IDTW,IFIA,F3I,RSD,GL,2022-11-18,18:52:20
+1795,Comparative study of population-based metaheuristic algorithms for Adaptive Network-based on Fuzzy Inference System parameters optimization,Ferradji  mohamed,Maitre de conferences classe B,False,IDTW,IFIA,F3I,RSD,GL,2022-11-18,19:07:59
+1720,Segmentation des images médicales,BERRIMI  Fella,Maitre de conferences classe B,False,F3I,IFIA,IDTW,GL,RSD,2022-11-13,08:09:34
+1724,Système biométrique basé sur les empreintes digitales,BERRIMI  Fella,Maitre de conferences classe B,False,F3I,IFIA,GL,IDTW,RSD,2022-11-13,21:35:26
+1850,Community structure-based heuristic for influence optimization in social networks,BOURAS  IKRAM,Maitre de conferences classe B,False,IFIA,IDTW,RSD,GL,F3I,2022-11-19,18:39:47
+1856,Une solution intelligente basé IoT pour le smart farming,Kout  Akram,Maitre de conferences classe B) --> Hors département: Faculté de Biologie,False,RSD,IFIA,F3I,GL,IDTW,2022-11-19,19:11:07
+1895,Nouvelle approche d'extraction de connaissances par la méthode des règles d’association,Bouaita  Bilal,Maitre de conferences classe B) --> Hors département: Faculté de technologie,False,IFIA,F3I,GL,IDTW,RSD,2022-11-22,21:31:27
+1889,Web-based clinical decision support systems using artificial intelligent methods for medical diagnosis,SEGHIR  Fateh,Maitre de conferences classe A,False,IFIA,GL,IDTW,F3I,RSD,2022-11-21,09:35:06
+1887,The study of the phenomenon of desertification by Change Detection in Remote Sensing Data,SLIMANI  Yacine,Maitre de conferences classe B) --> Hors département: Faculté de technologie,False,F3I,IFIA,IDTW,RSD,GL,2022-11-20,23:19:58
+1806,Forests Tree Species Identification using deep learning,CHERGUI  Nabila,Maitre de conferences classe B) --> Hors département: Faculté de technologie,False,F3I,IFIA,IDTW,RSD,GL,2022-11-22,22:11:54
+1894,Dead Trees Detection Based on Machine Learning and Remote Sensing,CHERGUI  Nabila,Maitre de conferences classe B) --> Hors département: Faculté de technologie,False,F3I,IFIA,IDTW,RSD,GL,2022-11-25,17:19:42
+1686,DoS Attack Detection using Statistical Method,Haddadi  Mohamed,"Maitre de conferences classe B) --> Hors département: Université de Boumerdes, Departement économie",False,RSD,IFIA,IDTW,F3I,GL,2022-10-31,20:08:38
+1691,Big Data Filtering using Multithreading on High Performance Computing (HPC),Haddadi  Mohamed,"Maitre de conferences classe B) --> Hors département: Université de Boumerdes, Departement économie",False,RSD,IDTW,IFIA,GL,F3I,2022-11-04,20:15:56
+1711,Cyber-Attack Detection on Big Data using Deep Learning,Haddadi  Mohamed,"Maitre de conferences classe B) --> Hors département: Université de Boumerdes, Departement économie",False,IFIA,RSD,IDTW,F3I,GL,2022-11-11,18:10:42
+1712,Cyber-Attack Detection on IoT using Machine learning,Haddadi  Mohamed,"Maitre de conferences classe B) --> Hors département: Université de Boumerdes, Departement économie",False,IFIA,RSD,IDTW,F3I,GL,2022-11-11,20:01:46
+1692,Sélection des caractéristiques pour les données de grande dimension,Benmessahel  Bilel,Maitre de conferences classe B) --> Hors département: Faculté de technologie,False,IFIA,IDTW,GL,F3I,RSD,2022-12-11,13:35:01
+1693,Identification de la falsification des données multimédia,Benmessahel  Bilel,Maitre de conferences classe B) --> Hors département: Faculté de technologie,False,IFIA,F3I,GL,IDTW,RSD,2022-11-05,06:43:19
+1861,Système sémantique décentralisé d’un processus du suivi des malades basé sur la Blockchain et l’ontologie du domaine,Annane  Boubakeur,Maitre de conferences classe B,False,GL,RSD,IDTW,IFIA,F3I,2022-11-19,21:10:44
+1862,Blockchain et cryptage bio-informatique pour la protection efficace des données médicales dans le Cloud,Annane  Boubakeur,Maitre de conferences classe B,False,GL,RSD,IFIA,IDTW,F3I,2022-11-23,08:25:19
+1840,A QoS-aware IoT routing protocol for eHealth services,Zier  Abdelhak,Maitre assistant classe B,False,RSD,IFIA,IDTW,GL,F3I,2022-11-19,14:08:38
+1784,Cryptanalysis and Improvement of a Security Protocol in Medical Internet of Things,Harbi  Yasmine,Maitre assistant classe B,False,RSD,IDTW,IFIA,F3I,GL,2022-11-18,15:47:21
+1766,Développement d’une approche pour la prédiction de l'activité biologique des composés chimiques et l'amélioration des performances du processus de recherche dans les bases de données chimiques à la base de l’apprentissage profond,BERRHAIL  Fouaz,Maitre de conferences classe B) --> Hors département: Faculte de technologie,False,IFIA,IDTW,F3I,GL,RSD,2022-11-17,23:48:19
+1769,Une approche pour la détection de la cyber-intimidation (Cyberbullying) dans les réseaux sociaux à la base d’un modèle de l’apprentissage profond,BERRHAIL  Fouaz,Maitre de conferences classe B) --> Hors département: Faculte de technologie,False,IFIA,IDTW,GL,F3I,RSD,2022-11-18,09:45:10
+1786,Feature extraction and selection for face recognition with machine learning;    Extraction et sélection des fonctionnalités pour la reconnaissance faciale avec apprentissage automatique,AYACHE  Farid,Maitre de conferences classe B) --> Hors département: Faculte de technologie,False,IFIA,F3I,GL,IDTW,RSD,2022-11-18,16:14:29
+1723,Deep learning model for predicting cancer stage based on  genomic data,Lakehal  Abderrahim,Maitre assistant classe B,False,F3I,IDTW,IFIA,GL,RSD,2022-11-18,17:40:32
+1845,Efficient data communication in UAV networks,Medani   khadidja,Maitre de conferences classe B) --> Hors département: ,False,RSD,IFIA,GL,F3I,IDTW,2022-11-19,18:18:57
+1847,Machine learning-based routing approach in UAV networks,Medani   khadidja,Maitre de conferences classe B) --> Hors département: ,False,RSD,IFIA,GL,F3I,IDTW,2022-11-19,18:09:52
