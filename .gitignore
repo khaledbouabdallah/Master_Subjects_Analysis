@@ -150,4 +150,4 @@ cython_debug/
 notebooks
 
 # HTML data
-raw_data/
+htmls

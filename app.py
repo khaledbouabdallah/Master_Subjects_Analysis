@@ -7,7 +7,7 @@ from lib.preprocessing import prepare_data
 import streamlit_page.generalstats as generalstats
 import streamlit_page.teacherstats as teacherstats
 
-FILE_PATH = 'dataset/subjects_master_2022_modefied.csv'
+FILE_PATH = 'dataset/subjects_master_2022.csv'
 
 
 def main():
@@ -35,7 +35,6 @@ def load_external_data(path: str) -> Tuple[pd.DataFrame, Exception]:
         return Exception, otherwise return False
     """
 
-    exception = False
     try:
         df = prepare_data(path)
         return df, False

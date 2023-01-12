@@ -38,7 +38,7 @@
      Streamlit web application that allows the exploration of thesis topics data
     <br />
     <br />
-    <a href="https://github.com/khaledbouabdallah/Master_Subjects_Analysis">View Web App</a>
+    <a href="https://khaledbouabdallah-master-subjects-analysis-app-g7r9hf.streamlit.app">View Web App</a>
     ·
     <a href="https://github.com/khaledbouabdallah/Master_Subjects_Analysis/issues">Report Bug</a>
     ·
@@ -66,7 +66,6 @@
       </ul>
     </li>
     <li><a href="#dataset">Dataset</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -82,14 +81,20 @@
 
 > An Exploratory Data Analysis of proposed Master thesis subjects
 
-After the release of the proposed thesis subjects, I was curious, and I had so many questions ... for example:
-- Most proposed subject (trending subject)
-- Most prioritized specialty in our department
-- Percentage of affected/unaffected topics.
-- What makes a topic undesirable (Why some topics didn't get chosen)
-So to kill my curiosity, I created an Interactive Dashboard to explore the data.
-Also, it felt like a nice opportunity to see how much information can be extracted from relatively simple data.
+The following dashboard gives some insights on the subjects proposed for master's thesis. The
+Subjects were proposed by teachers so that master students can choose one as their subject.
 
+- Year: 2021-2022 and 2022-2023 school years.
+- University: Ferhat Abbas Setif 1.
+- Faculty: Faculty of Science.  
+- Department: Computer Science.
+
+The dashboard can answer some following questions, among other things:
+- What is the most proposed subject?
+- What is the most prioritized specialty in our department?
+- What is Percentage of affected/unaffected topics?
+- Is there a big difference between 2022 and 2023 subjects?
+- what kind of subjects that specific teacher likes to propose?
 
 
 ### Built With
@@ -107,17 +112,16 @@ Also, it felt like a nice opportunity to see how much information can be extract
 ## Getting Started
 <div id="getting-started"></div>
 
-You can use the online version of the Dashboard located  [Here]()
-
-or you can get a local version by following these steps:
+You can use the online version of the Dashboard located  [Here](https://khaledbouabdallah-master-subjects-analysis-app-g7r9hf.streamlit.app)
+and you can download the dataset from [here](https://github.com/khaledbouabdallah/Master_Subjects_Analysis/tree/master/dataset)
+or you can get a local version of the dashboard by following these steps:
 
 ### Prerequisites
 <div id="prerequisites"></div>
 
 First you need to have:
-- python
-- pip3
-- venv
+- python 3.8 or newer.
+
 
 ### Installation
 <div id="installation"></div>
@@ -152,24 +156,12 @@ First you need to have:
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-## Dataset Used
+## Dataset Details 
 <div id="dataset"></div>
 
 
-Each row in the dataset represents a proposed article from some teachers of 
-Computer Science department (Faculty of Science/Ferhat Abbas Setif University) for 2022.
-
-The data was collected by scraping some webpages found in the faculty website and saved as 
-a csv file.
-
-There is two version of the dataset:
-1. original: this dataset contains only columns and data that was originally scraped for faculty website
-2. modified: this dataset contains an additional column _Subject_ which was created manually,
-this column contains one word that summarize the proposed topic.
-
-__Note__: the data contained in  _Subject_ column was created from my initial guesses after reading the
-title of a proposed thesis, if you think there is a mistake, please open an issue
-[open issues](https://github.com/khaledbouabdallah/Master_Subjects_Analysis/issues)
+Each row in the dataset represents a proposed master thesis subject from a teacher for the students
+computer science department (Faculty of Science/Ferhat Abbas Setif University) for 2022.
 
 
 ___Dataset Columns___:
@@ -185,31 +177,9 @@ ___Dataset Columns___:
 10. _Priority 5_: Specialty who holds priority number 5
 11. _Date_: topic publishing date.
 12. _Time_: topic publishing time.
-13. _Subject_: topic main keyword
 
-Both datasets are available including the code used to scrap 
-them and a clean version of the html files collected from the faculty website.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-## Roadmap
-<div id="roadmap"></div>
-
-- [X] Data scraping (collection)
-- [ ] subjects (keywords) completion
-- [ ] streamlit app
-  - [X] Home page
-  - [X] General Statistics
-  - [ ] Teacher Statistics
-  - [ ] Grade Statistics
-  - [ ] Speciality Statistics
-  - [ ] Advanced page
-  
-See the [open issues](https://github.com/khaledbouabdallah/Master_Subjects_Analysis/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -245,8 +215,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <div id="contact"></div>
 
 
-Project Link: [https://github.com/khaledbouabdallah/Master_Subjects_Analysis](https://github.com/khaledbouabdallah/Master_Subjects_Analysis)
+Project Link: [Github](https://github.com/khaledbouabdallah/Master_Subjects_Analysis)
 
+My Linkedin: [Khaled Bouabdallah](https://www.linkedin.com/in/khaled-bouabdallah-99b283191/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
