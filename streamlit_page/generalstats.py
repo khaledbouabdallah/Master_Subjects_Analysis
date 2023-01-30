@@ -2,7 +2,10 @@ import pandas as pd
 import altair as alt
 import streamlit as st
 import regex as re
-
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+import nltk
+from nltk.corpus import stopwords
 SPACES = '&nbsp;' * 10
 
 
@@ -15,18 +18,25 @@ def load_page(df: pd.DataFrame) -> None:
         The data to be used for the analyses of proposed thesis subjects
     """
 
-    prepare_layout()
+    selected_year = prepare_layout()
+    if selected_year == '2021-2022':
+        df = df[df['Academic-year']==selected_year]
+    elif selected_year == '2022-2023':
+        df = df[df['Academic-year']==selected_year]
+
     # general_information(df)
     did_every_proposed_topic_get_chosen_by_a_student(df)
     did_all_teachers_propose_the_same_number_of_topics(df)
     do_teachers_grades_have_any_impact_on_the_number_of_topics_proposed(df)
     did_teachers_from_other_departments_propose_a_topic(df)
     what_is_the_most_prioritized_specialty(df)
+    world_cloud(df)
 
 
 def prepare_layout() -> None:
     """ Prepare the text of the page at the top """
-    st.title("💘 General Statistics")
+    st.title("🧐 General Statistics")
+    selected_year = st.sidebar.radio('Select Academic year',('Both Academic years','2022-2023','2021-2022'))
     st.write("This page contains basic exploratory data analyses for the purpose of getting a general "
              "feeling of what the data contains. ".format(SPACES))
     st.markdown("There are several questions that this page tries to answer:".format(SPACES))
@@ -36,6 +46,7 @@ def prepare_layout() -> None:
     st.markdown("{}🔹 Did teachers from other departments propose a topic? ".format(SPACES))
     st.markdown("{}🔹 What is the most prioritized specialty? ".format(SPACES))
     st.write(" ")
+    return selected_year
 
 
 def general_information(df: pd.DataFrame) -> None:
@@ -60,7 +71,7 @@ def did_every_proposed_topic_get_chosen_by_a_student(df: pd.DataFrame) -> None:
             The data to be used for the analyses of proposed thesis subjects
     """
     number_of_topics = len(df.index)
-    number_of_topics_taken = df['Taken'].value_counts()[1]
+    number_of_topics_taken = df['Taken'].value_counts()[0]
     number_of_topics_not_taken = number_of_topics - number_of_topics_taken
     percentage_of_taken = round(number_of_topics_taken / number_of_topics * 100)
     percentage_of_not_taken = round(number_of_topics_not_taken / number_of_topics * 100)
@@ -139,9 +150,9 @@ def do_teachers_grades_have_any_impact_on_the_number_of_topics_proposed(df: pd.D
 
     df2 = df.copy()
     df2['Grade'] = df['Grade'].apply(remove_department)
-    st.subheader("Do teachers' grades have any impact on the number of topics proposed?")
+    st.subheader("Which grade of teachers proposed the most subjects?")
     grade_number_of_proposed = df2['Grade'].value_counts().to_frame().reset_index()
-    st.write("Below you can see the total number of proposed topics for every grade")
+    st.write("Below you can see the total number of proposed topics for every grade:")
     bars = alt.Chart(grade_number_of_proposed,
                      height=100 + (20 * len(grade_number_of_proposed)), width=740).mark_bar(
         color='#4db6ac').encode(
@@ -276,3 +287,23 @@ def what_is_the_most_prioritized_specialty(df: pd.DataFrame) -> None:
             text='Priority ' + option + ':Q'
         )
         st.write(bars + text)
+
+def world_cloud(df: pd.DataFrame) -> None:
+    st.subheader("Subjects Word Cloud")
+    st.write("The world cloud contains the most common words in the subjects titles. For example, Deep learning, Protocol, IOT, Detection are all common words.".format(SPACES))
+    # Get the column of interest from your dataframe
+    text = df['Title'].to_string()
+
+    # Remove French and English stopwords 
+    stop_words = set(stopwords.words("french") + stopwords.words("english"))
+    
+    text = ' '.join([word for word in text.split() if word.lower() not in stop_words])
+
+    # Create a wordcloud object
+    wordcloud = WordCloud().generate(text)
+
+    # Show the wordcloud in the app
+    plt.imshow(wordcloud, interpolation='bilinear')
+    plt.axis("off")
+    plt.show()
+    st.pyplot()

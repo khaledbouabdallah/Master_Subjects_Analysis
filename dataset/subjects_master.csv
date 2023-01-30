@@ -1,0 +1,291 @@
+Title,Teacher,Grade,Taken,Priority 1,Priority 2,Priority 3,Priority 4,Priority 5,Academic-year
+Eenrichissement de la sémantique des diagrammes d’états –transition .transformation vers Maude,KHABABA  Abdallah,Professeur,TRUE,GL,RSD,IDTW,F3I,IFIA,2022-2023
+les activités d’élicitation et analyse des exigences au contexte aux projets  Big Data,KHABABA  Abdallah,Professeur,TRUE,IDTW,GL,RSD,IFIA,F3I,2022-2023
+creating 3D minimap for navigation in VR,KHABABA  Abdallah,Professeur,TRUE,IDTW,RSD,GL,F3I,IFIA,2022-2023
+Machine learning to predict Antimicriobial Resistance of Acinetobacter Baumannii,KAMEL  Nadjet,Professeur,TRUE,IDTW,IFIA,F3I,RSD,GL,2022-2023
+Prétraitement de données pour la classification des sols,KAMEL  Nadjet,Professeur,FALSE,IDTW,IFIA,F3I,RSD,GL,2022-2023
+Sequential Pattern Mining for SARS-CoV-2,KAMEL  Nadjet,Professeur,FALSE,IDTW,IFIA,F3I,RSD,GL,2022-2023
+Deep Learning Models for Colorectal Cancer Detection and Classification,MOUSSAOUI  Abdelouahab,Professeur,TRUE,IDTW,F3I,IFIA,GL,RSD,2022-2023
+Fully Attention Convolutional Deep Neural Networks for Polyp Segmentation from Histological Images and/or Colonoscopy Video,MOUSSAOUI  Abdelouahab,Professeur,TRUE,IDTW,F3I,IFIA,GL,RSD,2022-2023
+Efficient Deep Multimodal Self-Supervised Learning for Epileptic Seizures Detection Using EEG Signals,MOUSSAOUI  Abdelouahab,Professeur,TRUE,IDTW,F3I,IFIA,GL,RSD,2022-2023
+Deep Vision Transformer for Heart Disease Classification and Prediction,MOUSSAOUI  Abdelouahab,Professeur,TRUE,IDTW,F3I,IFIA,GL,RSD,2022-2023
+Ensemble Deep Learning-based Semantic Segmentation and Classification of Leaves Images for Agricultural Plants Diseases’ Detection,MOUSSAOUI  Abdelouahab,Professeur,TRUE,IDTW,F3I,IFIA,GL,RSD,2022-2023
+Plant leaf Disease Classification Using Deep Learning Transformers Driven Bayesian Learning and Regularization,MOUSSAOUI  Abdelouahab,Professeur,TRUE,IDTW,F3I,IFIA,GL,RSD,2022-2023
+Proteomic Profiles Selection and Patients’ Cancer Classification Based on Bio-inspired Algorithms and Deep Learning,MOUSSAOUI  Abdelouahab,Professeur,TRUE,IDTW,F3I,IFIA,GL,RSD,2022-2023
+Hybridization of Deep and Generative Models for Accurate Generation and Classification Chest X-ray Abnormalities,MOUSSAOUI  Abdelouahab,Professeur,TRUE,F3I,IDTW,IFIA,GL,RSD,2022-2023
+Multimodal Brain MRI/fMRI Image Generation and Classification Using GAN Architectures and Deep Attention CNN Models,MOUSSAOUI  Abdelouahab,Professeur,TRUE,F3I,IDTW,IFIA,GL,RSD,2022-2023
+Arrhythmia Classification of Physiological Signals ECG/MEG with Deep Neural Networks Models,MOUSSAOUI  Abdelouahab,Professeur,TRUE,F3I,IDTW,IFIA,GL,RSD,2022-2023
+Protein Structure Detection by AlphaFold and GNN Attention Deep Learning Models,MOUSSAOUI  Abdelouahab,Professeur,TRUE,F3I,IDTW,IFIA,GL,RSD,2022-2023
+Multiple Sclerosis Detection from MRI Images dataset  using Deep Learning Transformers and Variational Autoencoder,MOUSSAOUI  Abdelouahab,Professeur,TRUE,F3I,IDTW,IFIA,GL,RSD,2022-2023
+Plant Species Identification Using Siamese Network Architecture and Deep Boltzmann Machine Algorithm,MOUSSAOUI  Abdelouahab,Professeur,TRUE,F3I,IDTW,IFIA,GL,RSD,2022-2023
+Deep Belief Networks Applied  to Alzheimer's Disease Detection and Classification using Neuroimaging Data,MOUSSAOUI  Abdelouahab,Professeur,TRUE,F3I,IDTW,IFIA,GL,RSD,2022-2023
+Développement de systèmes d'information distribués,SAIDI  Mohamed,Maitre de conferences classe A,TRUE,GL,IDTW,RSD,F3I,IFIA,2022-2023
+Intégration de systèmes d'information distribués,SAIDI  Mohamed,Maitre de conferences classe A,TRUE,GL,IDTW,RSD,F3I,IFIA,2022-2023
+WSN hétérogène basé sur des agents intelligents à faible consommation d'énergie pour la collecte de données.,ALIOUAT née ZOUAOUI  Zibouda,Professeur,FALSE,IFIA,RSD,IDTW,F3I,GL,2022-2023
+Approche bio-inspiré pour la sécurité de l’internet des objets,ALIOUAT née ZOUAOUI  Zibouda,Professeur,TRUE,IFIA,RSD,IDTW,F3I,GL,2022-2023
+Collecte et exploitation de données spatio-temporelles relatives aux accidents de la route,DOUIDI  Lamri,Maitre de conferences classe B,TRUE,IDTW,GL,IFIA,F3I,RSD,2022-2023
+"Application pour acquisition, traitement et exploitation des données sur les accidents de la route",DOUIDI  Lamri,Maitre de conferences classe B,TRUE,IDTW,GL,IFIA,RSD,F3I,2022-2023
+Détection d'injections SQL au moyen de techniques du Deep Learning,BENZINE  Mehdi,Maitre de conferences classe B,TRUE,IDTW,F3I,IFIA,GL,RSD,2022-2023
+Détection des attaques de type XSS grâce à des techniques de Deep Learning,BENZINE  Mehdi,Maitre de conferences classe B,TRUE,IDTW,IFIA,F3I,GL,RSD,2022-2023
+Hamiltonian Monte Carlo (HMC) Inference in Item Response Theory,KHENTOUT née HARBOUCHE  Khadidja,Maitre de conferences classe B,FALSE,IDTW,IFIA,RSD,F3I,GL,2022-2023
+Variational Inference in Item Response Theory,KHENTOUT née HARBOUCHE  Khadidja,Maitre de conferences classe B,FALSE,IDTW,IFIA,RSD,F3I,GL,2022-2023
+Enhancing a Collaborative Recommender System Based on Deep Learning for Online Resources,ZAIMEN née MEDIANI  Chahrazed,Maitre de conferences classe B,TRUE,IDTW,F3I,IFIA,RSD,GL,2022-2023
+Enhancing a Content-Based Recommender System using Deep Learning for Online Resources,ZAIMEN née MEDIANI  Chahrazed,Maitre de conferences classe B,TRUE,IDTW,F3I,IFIA,RSD,GL,2022-2023
+A Deep Learning Model for the Diagnosis of Critical Diseases,ZAIMEN née MEDIANI  Chahrazed,Maitre de conferences classe B,TRUE,IDTW,F3I,IFIA,RSD,GL,2022-2023
+Sentiment Analysis with Deep learning for the Arabic language,ZAIMEN née MEDIANI  Chahrazed,Maitre de conferences classe B,TRUE,F3I,IDTW,IFIA,RSD,GL,2022-2023
+Sécurisation des données dans les systèmes Blockchain,ZAIMEN née MEDIANI  Chahrazed,Maitre de conferences classe B,TRUE,F3I,RSD,IDTW,IFIA,GL,2022-2023
+Security in IoT,MECHTA  Djamila,Maitre de conferences classe A,TRUE,RSD,IDTW,IFIA,F3I,GL,2022-2023
+"AI-based offloading, task scheduling and resource allocation",MECHTA  Djamila,Maitre de conferences classe A,TRUE,RSD,IDTW,F3I,IFIA,GL,2022-2023
+Task scheduling and resource allocation,MECHTA  Djamila,Maitre de conferences classe A,TRUE,RSD,IDTW,IFIA,F3I,GL,2022-2023
+Simulation de Scénarios IoT Orienté Agent,LAOUADI  Mohamed Amin,Maitre de conferences classe B,TRUE,IFIA,IDTW,RSD,F3I,GL,2022-2023
+Intégration de Système Multi-Agent dans l'Internet des Objets,LAOUADI  Mohamed Amin,Maitre de conferences classe B,TRUE,IFIA,IDTW,RSD,F3I,GL,2022-2023
+Vers une solution de Sécurité à l'aide d'un algorithme d'immunité artificielle pour les réseaux mobiles sans infrastructure,BEGHRICHE  Abdesselem,Maitre de conferences classe B,TRUE,RSD,IFIA,IDTW,GL,F3I,2022-2023
+Vers une solution pour améliorer la qualité de service (QoS) dans les réseaux de télécommunications de 4éme génération.,BEGHRICHE  Abdesselem,Maitre de conferences classe B,TRUE,RSD,IDTW,GL,IFIA,F3I,2022-2023
+Secure Time Synchronization in Wireless Sensor Networks,AISSAOUA  Habib,Maitre de conferences classe B,TRUE,RSD,IFIA,IDTW,F3I,GL,2022-2023
+IoT Security in Healthcare,AISSAOUA  Habib,Maitre de conferences classe B,TRUE,RSD,IFIA,IDTW,F3I,GL,2022-2023
+Protocole GPS-based pour la localisation des véhicules dans l’IoT,BENAIDJA  Amira,Maitre de conferences classe B,TRUE,RSD,IDTW,IFIA,F3I,GL,2022-2023
+Protocole Non-GPS based pour la localisation des véhicules dans l’IoT,BENAIDJA  Amira,Maitre de conferences classe B,TRUE,RSD,IDTW,IFIA,F3I,GL,2022-2023
+Extraction des caractéristiques des images d'expression génétique : comparaison entre les Auto-Encodeurs et l’ACP,MEKROUD  Noureddine,Maitre assistant classe A,TRUE,F3I,IFIA,IDTW,GL,RSD,2022-2023
+Deep Learning et modélisation de l’incertain pour la compression des données imprécises d'expression génétique,MEKROUD  Noureddine,Maitre assistant classe A,TRUE,F3I,IFIA,IDTW,GL,RSD,2022-2023
+Implémentation d'une primitive cryptographique au service des signatures anonymes,KHARCHI  Samia,Maitre assistant classe A,TRUE,RSD,IDTW,IFIA,GL,F3I,2022-2023
+Conception et implémentation d'une application de signatures électroniques,KHARCHI  Samia,Maitre assistant classe A,TRUE,RSD,IDTW,IFIA,GL,F3I,2022-2023
+Une version Cross-Layer pour le protocole OLSR,HAMMOUCHE  Yassine,Maitre assistant classe A,TRUE,RSD,IFIA,IDTW,F3I,GL,2022-2023
+La reconnaissance des panneaux de circulation (cas de limitateur de vitesse): état de l'art.,HAMMOUCHE  Yassine,Maitre assistant classe A,TRUE,F3I,IFIA,GL,RSD,IDTW,2022-2023
+Détection des intrusions pour l’internet des objets en utilisant des techniques d’apprentissage approfondi,FENANIR  Samir,Maitre de conferences classe B,TRUE,IFIA,F3I,RSD,IDTW,GL,2022-2023
+Une Smart agriculture pour lutter contre les bioagresseurs des céréales,FENANIR  Samir,Maitre de conferences classe B,TRUE,F3I,IFIA,IDTW,RSD,GL,2022-2023
+A Deep Learning Approach to Detecting Offensive Tweets,LAKHFIF  Abdelaziz,Maitre de conferences classe A,TRUE,IDTW,IFIA,RSD,F3I,GL,2022-2023
+A BERT-based Approach for Implicit Emotion Classification,LAKHFIF  Abdelaziz,Maitre de conferences classe A,TRUE,IDTW,RSD,IFIA,F3I,GL,2022-2023
+ML based approach for event detection in twitter datastreams,LAKHFIF  Abdelaziz,Maitre de conferences classe A,TRUE,IDTW,RSD,F3I,IFIA,GL,2022-2023
+An Avatar based approach for automatically interpreting Algerian Sign Language Dictionary,LAKHFIF  Abdelaziz,Maitre de conferences classe A,TRUE,IDTW,F3I,RSD,IFIA,GL,2022-2023
+A probabilistic approach for Temporal Link Prediction,LAKHFIF  Abdelaziz,Maitre de conferences classe A,TRUE,IDTW,F3I,GL,RSD,IFIA,2022-2023
+Towards the building of an Arabic corpus for Fake news detection,LAKHFIF  Abdelaziz,Maitre de conferences classe A,TRUE,IDTW,IFIA,F3I,RSD,GL,2022-2023
+Help twitter to Identify Bots,TOUMI  Lyazid,Maitre de conferences classe A,TRUE,IDTW,GL,F3I,RSD,IFIA,2022-2023
+Optimisation de la localisation dans les reseaux de capteurs sans fil :,LALAMA  Zahia,Maitre assistant classe A,TRUE,RSD,IDTW,IFIA,F3I,GL,2022-2023
+Etude des performances du protocole TSCH dans les IOTs,BANABIREZ née ZERGUINE  Nadia,Maitre de conferences classe B,TRUE,RSD,IFIA,IDTW,GL,F3I,2022-2023
+L'intelligence artificielle pour améliorer le protocole Mac TSCH dans les IIOTs,BANABIREZ née ZERGUINE  Nadia,Maitre de conferences classe B,TRUE,RSD,IFIA,IDTW,GL,F3I,2022-2023
+Recommender system based on graph learning model.,DRIF  Ahlem,Maitre de conferences classe A,TRUE,IFIA,IDTW,F3I,RSD,GL,2022-2023
+Fact checking and fake news detection models for online social media.,DRIF  Ahlem,Maitre de conferences classe A,TRUE,IFIA,IDTW,F3I,RSD,GL,2022-2023
+"Etude à l’aide de la fouille de données, des demandes de crédits des clients d’une banque.",AMRANI  Lakhdar,Maitre assistant classe A,TRUE,F3I,IDTW,GL,IFIA,RSD,2022-2023
+Ciblage de clientèle d’une compagnie d’assurance à l’aide de la fouille de données.,AMRANI  Lakhdar,Maitre assistant classe A,TRUE,F3I,IDTW,GL,IFIA,RSD,2022-2023
+uFAS - Study Portal,BOUAMARI  Abdelkader,Maitre assistant classe A,TRUE,IDTW,GL,F3I,IFIA,RSD,2022-2023
+uFAS - Academy Portal,BOUAMARI  Abdelkader,Maitre assistant classe A,TRUE,IDTW,GL,F3I,IFIA,RSD,2022-2023
+Optimization of GAN’s parameters using metaheuristics,ZAZOUA née DJEMAME  Safia,Maitre de conferences classe A,TRUE,F3I,IDTW,IFIA,GL,RSD,2022-2023
+"Study and comparison of quantum metaheuristics algorithms : Qfirefly, Qdolphin and Qwolves algorithms",ZAZOUA née DJEMAME  Safia,Maitre de conferences classe A,FALSE,IFIA,IDTW,F3I,GL,RSD,2022-2023
+An Intelligent system for prediction of  customers' actions based on a company database and market data.,ZAZOUA née DJEMAME  Safia,Maitre de conferences classe A,TRUE,IFIA,F3I,IDTW,GL,RSD,2022-2023
+generation automatique des objets 3D,DOUAR  Amel,Maitre assistant classe A,TRUE,IDTW,IFIA,F3I,GL,RSD,2022-2023
+classification automatique des taches des travaux pratiques,DOUAR  Amel,Maitre assistant classe A,TRUE,IFIA,IDTW,F3I,GL,RSD,2022-2023
+Blockchain technology applications for Industry 4.0,GOUDJIL  Lakhdar,Maitre assistant classe A,FALSE,IDTW,RSD,IFIA,F3I,GL,2022-2023
+The Use of Blockchain For The Internet Of Things  in healthcare,GOUDJIL  Lakhdar,Maitre assistant classe A,TRUE,RSD,IDTW,GL,IFIA,F3I,2022-2023
+Modèle d’apprentissage profond bio-inspiré pour la reconnaissance d’objets,KHALFALLAH née HADI  Fairouz,Maitre de conferences classe B,TRUE,IFIA,F3I,RSD,IDTW,GL,2022-2023
+La récupération d'images médicales à l’aide du Deep Learning,KHALFALLAH née HADI  Fairouz,Maitre de conferences classe B,TRUE,IFIA,F3I,RSD,IDTW,GL,2022-2023
+Implémentation d’un algorithme auto-stabilisant pour le calcul d’un ensemble dominant,GUELLATI  Nabil,Maitre de conferences classe B,TRUE,GL,RSD,IDTW,IFIA,F3I,2022-2023
+Implémentation d’un algorithme auto-stabilisant pour le calcul d’un ensemble dominant,GUELLATI  Nabil,Maitre de conferences classe B,TRUE,GL,RSD,IDTW,IFIA,F3I,2022-2023
+Artificial rabbits optimization for Tuning deep learning parameters,SEMCHEDINE  Moussa,Maitre de conferences classe A,TRUE,F3I,IDTW,IFIA,RSD,GL,2022-2023
+Design and implementation of software platform for bioinspired optimization algorithms,SEMCHEDINE  Moussa,Maitre de conferences classe A,TRUE,F3I,IDTW,IFIA,RSD,GL,2022-2023
+Modeling of gene regulatory networks using convolutional neural networks,BRAHIM-SALEM  Fatiha,Maitre assistant classe A,TRUE,F3I,IFIA,IDTW,GL,RSD,2022-2023
+Inference of gene regulatory networks using genetic algorithm,BRAHIM-SALEM  Fatiha,Maitre assistant classe A,TRUE,F3I,IFIA,IDTW,GL,RSD,2022-2023
+Megatron project (the software part),KARA  Abdelaziz,Maitre assistant classe A,FALSE,RSD,F3I,IDTW,IFIA,GL,2022-2023
+Megatron project (hardware part),KARA  Abdelaziz,Maitre assistant classe A,FALSE,RSD,F3I,IFIA,IDTW,GL,2022-2023
+RPL-Based Routing Protocols in IoT Applications,MANSOURI  Houceme,Maitre de conferences classe A,TRUE,RSD,IDTW,IFIA,F3I,GL,2022-2023
+Performance Evaluation of LOADng Routing Protocol in IoT,MANSOURI  Houceme,Maitre de conferences classe A,TRUE,RSD,IDTW,IFIA,F3I,GL,2022-2023
+Classification and Forecasting using Deep Learning Approach for Time Series Gene Expression Data,NASRI  Khaled,Maitre assistant classe A,TRUE,IDTW,F3I,IFIA,GL,RSD,2022-2023
+Brain Tumor Segmentation Using Unet,NASRI  Khaled,Maitre assistant classe A,TRUE,F3I,IDTW,IFIA,GL,RSD,2022-2023
+CNN for Aspect Based Arabic Sentiment Analysis,TEBBANI  Fatiha,Maitre assistant classe A,TRUE,F3I,IFIA,GL,IDTW,RSD,2022-2023
+RNN for Aspect Based Arabic Sentiment Analysis,TEBBANI  Fatiha,Maitre assistant classe A,TRUE,F3I,IFIA,GL,IDTW,RSD,2022-2023
+Les protocoles de communication dans les réseaux IoT.,KANOUNI  Lakhdar,Maitre assistant classe A,TRUE,RSD,IFIA,F3I,IDTW,GL,2022-2023
+La délivrance des données dans les réseaux IoT.,KANOUNI  Lakhdar,Maitre assistant classe A,TRUE,RSD,IFIA,F3I,IDTW,GL,2022-2023
+Etude comparative des protocoles de détection des nœuds frontières dans les réseaux de capteurs sans fil.,LAMRAOUI  Amar,Maitre assistant classe A,TRUE,RSD,IDTW,IFIA,F3I,GL,2022-2023
+Implémentation d’un protocole de routage dans les réseaux de capteurs sans fil a base d'un système de cordonnées virtuelles,LAMRAOUI  Amar,Maitre assistant classe A,TRUE,RSD,IDTW,IFIA,F3I,GL,2022-2023
+Application de l’algorithme Fixed Set Search aux problèmes d’optimisation combinatoire,BOUAMAMA  Salim,Professeur,TRUE,RSD,IFIA,IDTW,F3I,GL,2022-2023
+Biobjective optimization approach for the minimum weight dominating set,BOUAMAMA  Salim,Professeur,FALSE,RSD,IDTW,IFIA,GL,F3I,2022-2023
+Conception et réalisation d'une application pour la gestion numérique de l'école (e-school),BESSOU  Sadik,Maitre de conferences classe A,TRUE,IDTW,GL,F3I,IFIA,RSD,2022-2023
+Role of Text Pre-Processing in Arabic Sentiment Analysis on social media; Use case: Algerian dialect sentiment analysis on Twitter.,BESSOU  Sadik,Maitre de conferences classe A,TRUE,IDTW,F3I,IFIA,GL,RSD,2022-2023
+High utility itemsets mining,KARA Mohamed  Chafia,Maitre de conferences classe A,FALSE,IDTW,F3I,IFIA,RSD,GL,2022-2023
+Sentiment Analysis using Machine Learning,KARA Mohamed  Chafia,Maitre de conferences classe A,TRUE,IFIA,F3I,IDTW,RSD,GL,2022-2023
+Pre-processing for medical images,KARA Mohamed  Chafia,Maitre de conferences classe A,TRUE,F3I,IFIA,IDTW,RSD,GL,2022-2023
+Context-independent word embedding methods in deep learning for Arabic document classification.,KARA Mohamed  Chafia,Maitre de conferences classe A,TRUE,IDTW,IFIA,F3I,RSD,GL,2022-2023
+Edge Computing in Internet of Things,GHERBI  Chirihane,Maitre de conferences classe A,TRUE,RSD,IFIA,IDTW,F3I,GL,2022-2023
+Machine Learning for Securing Software-Defined Networking,GHERBI  Chirihane,Maitre de conferences classe A,TRUE,RSD,IFIA,IDTW,F3I,GL,2022-2023
+Sentiment Analysis for Arabic Code-Switched Text Data,Harrag  Fouzi,Maitre de conferences classe A,FALSE,IDTW,F3I,IFIA,GL,RSD,2022-2023
+Exploring Anti-Muslim Bias in Generative Models,Harrag  Fouzi,Maitre de conferences classe A,FALSE,IDTW,F3I,IFIA,GL,RSD,2022-2023
+Ethical Natural Language Interventions to controll Text-to-Image Generative Models,Harrag  Fouzi,Maitre de conferences classe A,FALSE,F3I,IDTW,IFIA,GL,RSD,2022-2023
+Fighting Deepfake texts via Controllable Text Generation,Harrag  Fouzi,Maitre de conferences classe A,TRUE,F3I,IDTW,IFIA,GL,RSD,2022-2023
+Security and authentication in Internet of things,Cherbal  Sara,Maitre de conferences classe A,TRUE,RSD,IDTW,IFIA,F3I,GL,2022-2023
+Blockchain security in internet of things,Cherbal  Sara,Maitre de conferences classe A,TRUE,RSD,IDTW,IFIA,F3I,GL,2022-2023
+Approches heuristiques et métaheuristiques pour le problème de l'ensemble dominant à poids minimal dans les graphes orientés,BALBAL  Samir,Maitre de conferences classe B,FALSE,IDTW,RSD,IFIA,F3I,GL,2022-2023
+Placement de services de sécurité dans l’IoT,BALBAL  Samir,Maitre de conferences classe B,TRUE,RSD,IDTW,F3I,IFIA,GL,2022-2023
+Apprentissage par renforcement pour la reconnaissance de la parole,Frihia  hamza,Maitre de conferences classe B,TRUE,IFIA,F3I,IDTW,GL,RSD,2022-2023
+Smart Web application to support medical diagnosis decision making,Ferradji  mohamed,Maitre de conferences classe B,TRUE,IDTW,IFIA,F3I,RSD,GL,2022-2023
+Comparative study of population-based metaheuristic algorithms for Adaptive Network-based on Fuzzy Inference System parameters optimization,Ferradji  mohamed,Maitre de conferences classe B,FALSE,IDTW,IFIA,F3I,RSD,GL,2022-2023
+Segmentation des images médicales,BERRIMI  Fella,Maitre de conferences classe B,TRUE,F3I,IFIA,IDTW,GL,RSD,2022-2023
+Système biométrique basé sur les empreintes digitales,BERRIMI  Fella,Maitre de conferences classe B,TRUE,F3I,IFIA,GL,IDTW,RSD,2022-2023
+Community structure-based heuristic for influence optimization in social networks,BOURAS  IKRAM,Maitre de conferences classe B,FALSE,IFIA,IDTW,RSD,GL,F3I,2022-2023
+Une solution intelligente basé IoT pour le smart farming,Kout  Akram,Maitre de conferences classe B) --> Hors département: Faculté de Biologie,TRUE,RSD,IFIA,F3I,GL,IDTW,2022-2023
+Nouvelle approche d'extraction de connaissances par la méthode des règles d’association,Bouaita  Bilal,Maitre de conferences classe B) --> Hors département: Faculté de technologie,TRUE,IFIA,F3I,GL,IDTW,RSD,2022-2023
+Web-based clinical decision support systems using artificial intelligent methods for medical diagnosis,SEGHIR  Fateh,Maitre de conferences classe A,TRUE,IFIA,GL,IDTW,F3I,RSD,2022-2023
+The study of the phenomenon of desertification by Change Detection in Remote Sensing Data,SLIMANI  Yacine,Maitre de conferences classe B) --> Hors département: Faculté de technologie,TRUE,F3I,IFIA,IDTW,RSD,GL,2022-2023
+Forests Tree Species Identification using deep learning,CHERGUI  Nabila,Maitre de conferences classe B) --> Hors département: Faculté de technologie,FALSE,F3I,IFIA,IDTW,RSD,GL,2022-2023
+Dead Trees Detection Based on Machine Learning and Remote Sensing,CHERGUI  Nabila,Maitre de conferences classe B) --> Hors département: Faculté de technologie,TRUE,F3I,IFIA,IDTW,RSD,GL,2022-2023
+DoS Attack Detection using Statistical Method,Haddadi  Mohamed,"Maitre de conferences classe B) --> Hors département: Université de Boumerdes, Departement économie",FALSE,RSD,IFIA,IDTW,F3I,GL,2022-2023
+Big Data Filtering using Multithreading on High Performance Computing (HPC),Haddadi  Mohamed,"Maitre de conferences classe B) --> Hors département: Université de Boumerdes, Departement économie",TRUE,RSD,IDTW,IFIA,GL,F3I,2022-2023
+Cyber-Attack Detection on Big Data using Deep Learning,Haddadi  Mohamed,"Maitre de conferences classe B) --> Hors département: Université de Boumerdes, Departement économie",TRUE,IFIA,RSD,IDTW,F3I,GL,2022-2023
+Cyber-Attack Detection on IoT using Machine learning,Haddadi  Mohamed,"Maitre de conferences classe B) --> Hors département: Université de Boumerdes, Departement économie",TRUE,IFIA,RSD,IDTW,F3I,GL,2022-2023
+Sélection des caractéristiques pour les données de grande dimension,Benmessahel  Bilel,Maitre de conferences classe B) --> Hors département: Faculté de technologie,FALSE,IFIA,IDTW,GL,F3I,RSD,2022-2023
+Identification de la falsification des données multimédia,Benmessahel  Bilel,Maitre de conferences classe B) --> Hors département: Faculté de technologie,TRUE,IFIA,F3I,GL,IDTW,RSD,2022-2023
+Système sémantique décentralisé d’un processus du suivi des malades basé sur la Blockchain et l’ontologie du domaine,Annane  Boubakeur,Maitre de conferences classe B,TRUE,GL,RSD,IDTW,IFIA,F3I,2022-2023
+Blockchain et cryptage bio-informatique pour la protection efficace des données médicales dans le Cloud,Annane  Boubakeur,Maitre de conferences classe B,TRUE,GL,RSD,IFIA,IDTW,F3I,2022-2023
+A QoS-aware IoT routing protocol for eHealth services,Zier  Abdelhak,Maitre assistant classe B,TRUE,RSD,IFIA,IDTW,GL,F3I,2022-2023
+Cryptanalysis and Improvement of a Security Protocol in Medical Internet of Things,Harbi  Yasmine,Maitre assistant classe B,TRUE,RSD,IDTW,IFIA,F3I,GL,2022-2023
+Développement d’une approche pour la prédiction de l'activité biologique des composés chimiques et l'amélioration des performances du processus de recherche dans les bases de données chimiques à la base de l’apprentissage profond,BERRHAIL  Fouaz,Maitre de conferences classe B) --> Hors département: Faculte de technologie,TRUE,IFIA,IDTW,F3I,GL,RSD,2022-2023
+Une approche pour la détection de la cyber-intimidation (Cyberbullying) dans les réseaux sociaux à la base d’un modèle de l’apprentissage profond,BERRHAIL  Fouaz,Maitre de conferences classe B) --> Hors département: Faculte de technologie,TRUE,IFIA,IDTW,GL,F3I,RSD,2022-2023
+Feature extraction and selection for face recognition with machine learning;    Extraction et sélection des fonctionnalités pour la reconnaissance faciale avec apprentissage automatique,AYACHE  Farid,Maitre de conferences classe B) --> Hors département: Faculte de technologie,TRUE,IFIA,F3I,GL,IDTW,RSD,2022-2023
+Deep learning model for predicting cancer stage based on  genomic data,Lakehal  Abderrahim,Maitre assistant classe B,TRUE,F3I,IDTW,IFIA,GL,RSD,2022-2023
+Efficient data communication in UAV networks,Medani   khadidja,Maitre de conferences classe B) --> Hors département: ,TRUE,RSD,IFIA,GL,F3I,IDTW,2022-2023
+Machine learning-based routing approach in UAV networks,Medani   khadidja,Maitre de conferences classe B) --> Hors département: ,TRUE,RSD,IFIA,GL,F3I,IDTW,2022-2023
+IoT for remote monitoring in Algeria,KHABABA  Abdallah,Professeur,TRUE,F3I,IDTW,IFIA,GL,RSD,2021-2022
+"Development, Usability, and Efficiancy of a Serious Game in aiding to regain cognitive functions.",KHABABA  Abdallah,Professeur,TRUE,GL,IFIA,F3I,IDTW,RSD,2021-2022
+Conception et Réalisation d’un système de réalité augmentée appliquée aux opérations sur les systèmes Industriels. (Ingénierie et outils numériques),KHABABA  Abdallah,Professeur,TRUE,F3I,RSD,IDTW,GL,IFIA,2021-2022
+An IoT Based Mobile Augmented Reality Application for Energy Visualization,KHABABA  Abdallah,Professeur,TRUE,F3I,IDTW,GL,IFIA,RSD,2021-2022
+Architecture d’un Système Nano Macro de Réseaux de Capteurs sans Fil connecté à IoT  pour une Agriculture Moderne,ALIOUAT  Makhlouf,Professeur,TRUE,RSD,IDTW,IFIA,GL,F3I,2021-2022
+Distribution de Systèmes  de Coordination des Feux de Circulation dans une Ville Intelligentes,ALIOUAT  Makhlouf,Professeur,TRUE,RSD,IDTW,GL,IFIA,F3I,2021-2022
+sequential pattern mining,KAMEL  Nadjet,Professeur,TRUE,IDTW,IFIA,RSD,F3I,GL,2021-2022
+Utility Pattern Mining,KAMEL  Nadjet,Professeur,FALSE,IDTW,IFIA,RSD,F3I,GL,2021-2022
+Vision Transformer Based Deep Learning Models for Plant Disease Detection and Diagnosis,MOUSSAOUI  Abdelouahab,Professeur,TRUE,F3I,IDTW,IFIA,GL,RSD,2021-2022
+Attention-Based Deep Convolutional Neural Network Versus Transfer Learning for Medical Image Classification and Disease Diagnosis,MOUSSAOUI  Abdelouahab,Professeur,TRUE,F3I,IDTW,IFIA,GL,RSD,2021-2022
+"Deep Feature Learning (Extraction and Generation) Using a Bidirectional LSTM-CNN and  Deep Generative Models (VAE, GAN) Applied to Physiological Signals (EEG/ECG) Classification",MOUSSAOUI  Abdelouahab,Professeur,TRUE,F3I,IDTW,IFIA,GL,RSD,2021-2022
+Transformer-based Deep Learning Techniques for Speech Emotion Recognition and Sentiment Analysis,MOUSSAOUI  Abdelouahab,Professeur,TRUE,F3I,IDTW,IFIA,GL,RSD,2021-2022
+Innovative Deep Neural Network Models for Multilingual Translation,MOUSSAOUI  Abdelouahab,Professeur,TRUE,IDTW,F3I,IFIA,GL,RSD,2021-2022
+Community Detection with Deep Graph Neural Networks (GNN),MOUSSAOUI  Abdelouahab,Professeur,TRUE,IDTW,F3I,IFIA,GL,RSD,2021-2022
+Identification of Plant-Leaf Diseases Based Generative-Attention CNN and Transfer-Learning Approaches,MOUSSAOUI  Abdelouahab,Professeur,TRUE,IDTW,F3I,IFIA,GL,RSD,2021-2022
+Deep Learning fo Medical Object Detection and Segmentation : Case of Osteoporosis Disease,MOUSSAOUI  Abdelouahab,Professeur,TRUE,IDTW,F3I,IFIA,GL,RSD,2021-2022
+Classification of Remote Sensing Images using Transfer Learning and CNN Model with Attention,MOUSSAOUI  Abdelouahab,Professeur,TRUE,F3I,IDTW,IFIA,GL,RSD,2021-2022
+Very Deep Attention-Based Models for Sentiments Analysis and Text Classification,MOUSSAOUI  Abdelouahab,Professeur,TRUE,IDTW,F3I,IFIA,GL,RSD,2021-2022
+Novel Deep Learning Architecture for Predicting Heart Diseases based Transformers and Attention Mechanism with Explainability Model,MOUSSAOUI  Abdelouahab,Professeur,TRUE,GL,IDTW,IFIA,F3I,RSD,2021-2022
+Hate speech detection in tweets,REFOUFI  Allaoua,Professeur,TRUE,IDTW,F3I,IFIA,GL,RSD,2021-2022
+Deep learning based sentiment analysis of movie reviews,REFOUFI  Allaoua,Professeur,TRUE,IDTW,IFIA,GL,RSD,,2021-2022
+Éliminer les silos d’information et unifier les systèmes en les dotant de couches métiers,SAIDI  Mohamed,Maitre de conferences classe A,TRUE,GL,IDTW,IFIA,RSD,F3I,2021-2022
+Fusion de systèmes d'information,SAIDI  Mohamed,Maitre de conferences classe A,TRUE,GL,IDTW,IFIA,RSD,F3I,2021-2022
+Protocole clustering les reseaux IoT basé deep learning,ALIOUAT née ZOUAOUI  Zibouda,Professeur,TRUE,RSD,IDTW,IFIA,F3I,GL,2021-2022
+Détection des cyber-attaques dans l’internet des objets,ALIOUAT née ZOUAOUI  Zibouda,Professeur,TRUE,RSD,IDTW,IFIA,F3I,GL,2021-2022
+Conception et Réalisation d'un MOOC orienté Réseaux,KHENTOUT  Chabane,Maitre de conferences classe B,TRUE,IDTW,IFIA,F3I,RSD,GL,2021-2022
+Système d’acquisition et de traitement des données sur les accidents de la route en Algérie,DOUIDI  Lamri,Maitre de conferences classe B,TRUE,IDTW,GL,RSD,IFIA,F3I,2021-2022
+Services web dans un environnement d’apprentissage à distance,DOUIDI  Lamri,Maitre de conferences classe B,TRUE,IDTW,GL,RSD,IFIA,F3I,2021-2022
+Approche ontologique pour l’indexation des ressources pédagogiques numériques,DOUIDI  Lamri,Maitre de conferences classe B,TRUE,GL,IDTW,IFIA,RSD,F3I,2021-2022
+Simulation de la propagation du Covid19 (CoronaVirus) par les Systèmes Multi-Agents,BENAOUDA  Abdelhafid,Maitre de conferences classe B,TRUE,RSD,IDTW,IFIA,F3I,GL,2021-2022
+"Un modèle basé ""resource LoadBalancing""  dans les Infrastructures as a Services (IaaS) des Cloud-Computing.",BENAOUDA  Abdelhafid,Maitre de conferences classe B,TRUE,RSD,IDTW,IFIA,F3I,GL,2021-2022
+Simulation  d'un système automatisé  modélisé  par grafcets  hiérarchiques (Encadré par Dr. Nacéra Benaouda),BENAOUDA  Abdelhafid,Maitre de conferences classe B,FALSE,GL,IFIA,RSD,IDTW,F3I,2021-2022
+Redressement des notes obtenues par différentes formes d’évaluation,KHENTOUT née HARBOUCHE  Khadidja,Maitre de conferences classe B,TRUE,IFIA,IDTW,F3I,RSD,GL,2021-2022
+Mesure de similarité et classification des profils comportementaux des apprenants fondées sur des réseaux de neurones,KHENTOUT née HARBOUCHE  Khadidja,Maitre de conferences classe B,TRUE,IDTW,IFIA,F3I,RSD,GL,2021-2022
+Content based Recommender System using Deep Learning,ZAIMEN née MEDIANI  Chahrazed,Maitre de conferences classe B,TRUE,IDTW,F3I,IFIA,RSD,GL,2021-2022
+Collaborative Recommender System using Deep Learning,ZAIMEN née MEDIANI  Chahrazed,Maitre de conferences classe B,TRUE,IDTW,F3I,IFIA,RSD,GL,2021-2022
+A Hybrid recommendation algorithm for learning resources,ZAIMEN née MEDIANI  Chahrazed,Maitre de conferences classe B,TRUE,F3I,IDTW,IFIA,RSD,GL,2021-2022
+Resources Allocation and scheduling problems,MECHTA  Djamila,Maitre de conferences classe A,TRUE,RSD,IFIA,IDTW,F3I,GL,2021-2022
+Artificial Intelligence-powered edge computing,MECHTA  Djamila,Maitre de conferences classe A,TRUE,RSD,IFIA,IDTW,F3I,GL,2021-2022
+Security in critical IoMT and IIoT,MECHTA  Djamila,Maitre de conferences classe A,TRUE,RSD,IFIA,IDTW,F3I,GL,2021-2022
+Bio-inspired based Power routing in P2P energy trading systems,MECHTA  Djamila,Maitre de conferences classe A,TRUE,IFIA,RSD,IDTW,F3I,GL,2021-2022
+Formalisation des Protocoles d'Interaction dans les SMA,LAOUADI  Mohamed Amin,Maitre de conferences classe B,TRUE,IFIA,IDTW,RSD,F3I,GL,2021-2022
+Vérification des protocoles d’interaction dans les SMA,LAOUADI  Mohamed Amin,Maitre de conferences classe B,TRUE,IFIA,IDTW,RSD,F3I,GL,2021-2022
+Un nouveau paradigme de sécurité pour les réseaux de drones utilisant un système immunitaire artificiel,BEGHRICHE  Abdesselem,Maitre de conferences classe B,TRUE,RSD,IFIA,IDTW,GL,F3I,2021-2022
+un routage efficace pour les réseaux de drones basé sur le comprtement des peinguins.,BEGHRICHE  Abdesselem,Maitre de conferences classe B,TRUE,RSD,IFIA,IDTW,F3I,GL,2021-2022
+Secure Clock Synchronization in Wireless Sensor Networks,AISSAOUA  Habib,Maitre de conferences classe B,TRUE,RSD,IFIA,IDTW,F3I,GL,2021-2022
+Clock synchronization in WSNs,AISSAOUA  Habib,Maitre de conferences classe B,FALSE,RSD,IFIA,IDTW,F3I,GL,2021-2022
+protocole optimal pour la localisation des nœuds dans les VANETs,BENAIDJA  Amira,Maitre de conferences classe B,TRUE,RSD,IFIA,IDTW,GL,F3I,2021-2022
+An access method for the broadcast of safety messages in IEEE 802.11p VANETs,BENAIDJA  Amira,Maitre de conferences classe B,TRUE,RSD,IFIA,IDTW,GL,F3I,2021-2022
+Approche pour l'extraction des caractéristiques et la découverte des connaissances dans les images d'expression génétique,MEKROUD  Noureddine,Maitre assistant classe A,TRUE,F3I,IFIA,IDTW,GL,RSD,2021-2022
+"Extraction des règles d'association en logique évidentielle, modélisation des distances adéquates aux données d'expression génétique",MEKROUD  Noureddine,Maitre assistant classe A,TRUE,IFIA,F3I,IDTW,GL,RSD,2021-2022
+Extraction des motifs séquentiels flous et possibilistes à partir des données d'expression génétique.,MEKROUD  Noureddine,Maitre assistant classe A,TRUE,IFIA,F3I,IDTW,GL,RSD,2021-2022
+Implémentation d'un nouveau schéma  de cryptographie en boite blanche,KHARCHI  Samia,Maitre assistant classe A,TRUE,RSD,IDTW,IFIA,GL,F3I,2021-2022
+Les codes QR: Sécurité et authentification,KHARCHI  Samia,Maitre assistant classe A,TRUE,RSD,IDTW,IFIA,GL,F3I,2021-2022
+SDVN : Software Defined Vehicular Networks,HAMMOUCHE  Yassine,Maitre assistant classe A,TRUE,RSD,GL,IFIA,IDTW,F3I,2021-2022
+Un nouveau protocole de routage Cross-layer pour Vanets.,HAMMOUCHE  Yassine,Maitre assistant classe A,TRUE,RSD,IFIA,F3I,IDTW,GL,2021-2022
+Développement de l’intelligence artificielle dans le domaine de l’Internet des Objets,FENANIR  Samir,Maitre de conferences classe B,TRUE,IFIA,F3I,RSD,GL,IDTW,2021-2022
+Système de détection des intrusions pour l’internet des objets en utilisant des techniques d’apprentissage automatique,FENANIR  Samir,Maitre de conferences classe B,TRUE,IFIA,RSD,F3I,GL,IDTW,2021-2022
+Système de détection des intrusions pour l’internet des objets en utilisant des techniques d’apprentissage approfondi,FENANIR  Samir,Maitre de conferences classe B,TRUE,IFIA,RSD,F3I,GL,IDTW,2021-2022
+Reconnaissance des émotions implicites,LAKHFIF  Abdelaziz,Maitre de conferences classe A,TRUE,IDTW,IFIA,F3I,GL,RSD,2021-2022
+Détection des évènements utiles dans Twitter,LAKHFIF  Abdelaziz,Maitre de conferences classe A,TRUE,IDTW,IFIA,F3I,GL,RSD,2021-2022
+Génération des scènes 3D à partir des graphes sémantiques,LAKHFIF  Abdelaziz,Maitre de conferences classe A,TRUE,IFIA,IDTW,F3I,GL,RSD,2021-2022
+Newsql databases administration and tuning,TOUMI  Lyazid,Maitre de conferences classe A,TRUE,IDTW,GL,F3I,RSD,IFIA,2021-2022
+NoSQL Databases for Geospatial Queries: Study and Scalability benchmarking,TOUMI  Lyazid,Maitre de conferences classe A,TRUE,IDTW,GL,F3I,RSD,IFIA,2021-2022
+Covid-19 pandemic: how to analyze human sentiments?,TOUMI  Lyazid,Maitre de conferences classe A,TRUE,IDTW,F3I,IFIA,GL,RSD,2021-2022
+Intelligent Assistant Seller with Sign Language,TOUMI  Lyazid,Maitre de conferences classe A,TRUE,IDTW,F3I,GL,IFIA,RSD,2021-2022
+"2)	APPLICATION DES META-HEURISTIQUES POUR L'OPTIMIZATION DE LA LOCALIZATION DANS LES RCSFS",LALAMA  Zahia,Maitre assistant classe A,TRUE,RSD,IDTW,IFIA,GL,F3I,2021-2022
+Segmentation des images médicales en cholécystectomie laparoscopique,DJAGHLOUL  Haroun,Maitre assistant classe A,TRUE,F3I,IFIA,GL,IDTW,RSD,2021-2022
+تطبيق الواقع الافتراضي لمكافحة وباء من نوع كوفيد 19 في وسط جامعي,DJAGHLOUL  Haroun,Maitre assistant classe A,FALSE,F3I,IFIA,GL,IDTW,RSD,2021-2022
+Deep learning pour l’amélioration du protocole IEEE802.11 DCF,BANABIREZ née ZERGUINE  Nadia,Maitre de conferences classe B,TRUE,RSD,IFIA,IDTW,GL,F3I,2021-2022
+Amélioration basé sur l’apprentissage profond pour le support du flux temps réel dans les MANETs,BANABIREZ née ZERGUINE  Nadia,Maitre de conferences classe B,TRUE,RSD,IFIA,IDTW,GL,F3I,2021-2022
+Assessment explanation approaches for black box models,DRIF  Ahlem,Maitre de conferences classe A,TRUE,IFIA,IDTW,F3I,RSD,GL,2021-2022
+A deep learning model for recommendation,DRIF  Ahlem,Maitre de conferences classe A,TRUE,IFIA,F3I,IDTW,GL,RSD,2021-2022
+Etude et gestion des phénomènes d’attente.,AMRANI  Lakhdar,Maitre assistant classe A,TRUE,IFIA,GL,F3I,IDTW,RSD,2021-2022
+Analyse post-optimale en programmation linéaire.,AMRANI  Lakhdar,Maitre assistant classe A,FALSE,IFIA,GL,IDTW,F3I,RSD,2021-2022
+Assistance à la spécification de propriétés temporelles,BOUAMARI  Abdelkader,Maitre assistant classe A,TRUE,IDTW,IFIA,RSD,GL,F3I,2021-2022
+Model-checking via le web,BOUAMARI  Abdelkader,Maitre assistant classe A,TRUE,IDTW,RSD,GL,IFIA,F3I,2021-2022
+comparaison d’algorithmes d’optimisation quantiques: les métaheuristiques quantiques QPSO et  QGA,ZAZOUA née DJEMAME  Safia,Maitre de conferences classe B,TRUE,IFIA,F3I,IDTW,GL,RSD,2021-2022
+Amélioration d'images avec le Deep Learning,ZAZOUA née DJEMAME  Safia,Maitre de conferences classe B,TRUE,F3I,IFIA,IDTW,GL,RSD,2021-2022
+Modelisation 3D d'un environnement virtuel,DOUAR  Amel,Maitre assistant classe A,TRUE,IDTW,F3I,IFIA,GL,RSD,2021-2022
+extraction des informations pertinantes dans un texte,DOUAR  Amel,Maitre assistant classe A,TRUE,IFIA,IDTW,GL,F3I,RSD,2021-2022
+An enhanced receiver-initiated MAC protocol for wireless sensor networks,GOUDJIL  Lakhdar,Maitre assistant classe A,TRUE,RSD,IDTW,IFIA,F3I,GL,2021-2022
+A Receiver-Initiated Asynchronous Duty-Cycle MAC Protocol  for the Internet of Things,GOUDJIL  Lakhdar,Maitre assistant classe A,TRUE,RSD,IDTW,IFIA,F3I,GL,2021-2022
+Sécurisation des images médicales,KHALFALLAH née HADI  Fairouz,Maitre de conferences classe B,TRUE,F3I,RSD,IDTW,GL,IFIA,2021-2022
+L’apprentissage profond (Deep Learning) pour la classification automatique d’images par le contenu visuel,KHALFALLAH née HADI  Fairouz,Maitre de conferences classe B,TRUE,F3I,IFIA,RSD,GL,IDTW,2021-2022
+Content Based Image Retrieval on Cloud Computing,KHALFALLAH née HADI  Fairouz,Maitre de conferences classe B,TRUE,F3I,RSD,IFIA,IDTW,GL,2021-2022
+Un nouvel algorithme auto-stabilisant pour le calcul d’un ensemble dominant fort (Strong Dominating Set),GUELLATI  Nabil,Maitre de conferences classe B,TRUE,RSD,GL,IFIA,IDTW,F3I,2021-2022
+A Modified Black Widow Optimization algorithm for multilevel thresholding image segmentation,SEMCHEDINE  Moussa,Maitre de conferences classe B,TRUE,F3I,IFIA,IDTW,RSD,GL,2021-2022
+Tuning deep learning parameters using bio-inspired algorithm,SEMCHEDINE  Moussa,Maitre de conferences classe B,TRUE,IDTW,IFIA,F3I,RSD,GL,2021-2022
+Modeling of gene regulatory networks: graphycal aproache,BRAHIM-SALEM  Fatiha,Maitre assistant classe A,TRUE,IDTW,F3I,IFIA,GL,RSD,2021-2022
+Modeling of gene regulatory networks: Bayesian Networks,BRAHIM-SALEM  Fatiha,Maitre assistant classe A,TRUE,IDTW,F3I,IFIA,GL,RSD,2021-2022
+"Megatron project, the hardware part",KARA  Abdelaziz,Maitre assistant classe A,FALSE,RSD,F3I,IDTW,IFIA,GL,2021-2022
+"Megatron project, the software part",KARA  Abdelaziz,Maitre assistant classe A,FALSE,RSD,F3I,IDTW,IFIA,GL,2021-2022
+Security and Privacy in Internet of Things : RPL Protool,MANSOURI  Houceme,Maitre de conferences classe A,TRUE,RSD,IDTW,IFIA,F3I,GL,2021-2022
+Security and Privacy in Internet of Things : LOADng Protocol,MANSOURI  Houceme,Maitre de conferences classe A,TRUE,RSD,IDTW,IFIA,F3I,GL,2021-2022
+Heart Failure Prediction Using Machine Learning Techniques,NASRI  Khaled,Maitre assistant classe B,TRUE,F3I,IDTW,IFIA,GL,RSD,2021-2022
+Deep Learning Model for Brain Tumor Radiogenomic Classification,NASRI  Khaled,Maitre assistant classe B,TRUE,F3I,IFIA,GL,RSD,IDTW,2021-2022
+Arabic Sentiment Analysis using Deep Learning for algerian dialect,TEBBANI  Fatiha,Maitre assistant classe A,TRUE,IFIA,IDTW,F3I,GL,RSD,2021-2022
+Sentiment analysis based Machine learning for Algerian dialect,TEBBANI  Fatiha,Maitre assistant classe A,TRUE,IFIA,F3I,IDTW,GL,RSD,2021-2022
+Routing Over Low power and Lossy networks.,KANOUNI  Lakhdar,Maitre assistant classe B,FALSE,RSD,IFIA,IDTW,GL,F3I,2021-2022
+Le routage dans les réseaux LLNs.,KANOUNI  Lakhdar,Maitre assistant classe B,TRUE,RSD,IFIA,F3I,GL,IDTW,2021-2022
+Problème de détection/couverture des frontières dans les RCFs,LAMRAOUI  Amar,Maitre assistant classe A,TRUE,RSD,IDTW,IFIA,F3I,,2021-2022
+Implémentation d’un système de cordonnées virtuelles pour le routage dans les réseaux de capteurs sans fil.,LAMRAOUI  Amar,Maitre assistant classe A,TRUE,RSD,IDTW,IFIA,F3I,,2021-2022
+Implementation of a real IoT system,LOUAIL  Lemia,Maitre de conferences classe A,TRUE,RSD,IFIA,IDTW,F3I,GL,2021-2022
+Task scheduling for IoT systems,LOUAIL  Lemia,Maitre de conferences classe A,TRUE,RSD,IFIA,IDTW,GL,F3I,2021-2022
+Cross-layer routing for wireless sensor networks,LOUAIL  Lemia,Maitre de conferences classe A,TRUE,RSD,IFIA,IDTW,GL,F3I,2021-2022
+Arabic offensive language detection in social media,BESSOU  Sadik,Maitre de conferences classe A,TRUE,IDTW,F3I,IFIA,GL,RSD,2021-2022
+Arabic Subjective Sentiment Analysis Using Machine Learning,BESSOU  Sadik,Maitre de conferences classe A,TRUE,IDTW,F3I,IFIA,GL,RSD,2021-2022
+Development of an Android Application for Anthroponymic Studies,BESSOU  Sadik,Maitre de conferences classe A,TRUE,IDTW,F3I,IFIA,GL,RSD,2021-2022
+Study of generator-based mining frequent itemsets algorithms,KARA Mohamed  Chafia,Maitre de conferences classe A,TRUE,F3I,IFIA,IDTW,RSD,GL,2021-2022
+Firefly-based feature selection for Arabic text classification,KARA Mohamed  Chafia,Maitre de conferences classe A,TRUE,F3I,IFIA,IDTW,RSD,GL,2021-2022
+Adaptive flow-level scheduling for the IoT MAC in HWSN,GHERBI  Chirihane,Maitre de conferences classe B,TRUE,RSD,IDTW,IFIA,F3I,GL,2021-2022
+Mécanisme de contrôle de congestion dans  IoV,GHERBI  Chirihane,Maitre de conferences classe B,TRUE,RSD,IFIA,IDTW,F3I,GL,2021-2022
+Protection de la vie privée dans le Cloud Computing,KACHA  Lynda,Maitre assistant classe A,TRUE,IFIA,RSD,F3I,IDTW,GL,2021-2022
+Optimisation du processus d'anonymisation par les métaheuristiques inspirées de la nature,KACHA  Lynda,Maitre assistant classe A,TRUE,IFIA,RSD,F3I,IDTW,GL,2021-2022
+Triggering Models: Measuring and Mitigating Bias in Arabic Language Generation,Harrag  Fouzi,Maitre de conferences classe A,TRUE,IDTW,F3I,IFIA,GL,RSD,2021-2022
+Reducing toxicity in Arabic language generation models,Harrag  Fouzi,Maitre de conferences classe A,FALSE,F3I,IDTW,IFIA,GL,RSD,2021-2022
+Using Multitask Unified Model (MUM) to improve search and NLU,Harrag  Fouzi,Maitre de conferences classe A,TRUE,IDTW,F3I,IFIA,GL,RSD,2021-2022
+Towards a lightweight secure scheme for internet of things,Cherbal  Sara,Maitre de conferences classe A,TRUE,RSD,IDTW,IFIA,F3I,GL,2021-2022
+Resource Management Approach in Fog Computing,Cherbal  Sara,Maitre de conferences classe A,TRUE,RSD,IDTW,IFIA,F3I,GL,2021-2022
+Optimisation de la durée de vie dans les réseaux de capteurs sans fil par le K-couverture,BALBAL  Samir,Maitre de conferences classe B,TRUE,RSD,IFIA,IDTW,F3I,GL,2021-2022
+métaheuritiques pour résoudre le problème du sac à dos multiple,BALBAL  Samir,Maitre de conferences classe B,TRUE,IFIA,F3I,IDTW,GL,RSD,2021-2022
+Maximisation de la durée de vie des réseaux de capteurs sans fil par les ensembles dominants,BALBAL  Samir,Maitre de conferences classe B,TRUE,RSD,IFIA,F3I,IDTW,GL,2021-2022
+Etude comparative d'apprentissage approfondi pour la détection d'intrusion,Frihia  hamza,Maitre de conferences classe B,TRUE,IFIA,F3I,IDTW,GL,RSD,2021-2022
+Smart groupware to support collaborative medical diagnosis,Ferradji  mohamed,Maitre de conferences classe B,TRUE,IDTW,IFIA,F3I,RSD,GL,2021-2022
+Adaptive Network-based Fuzzy Inference Systems (ANFIS) optimization based on Particle Swarm Optimization (PSO),Ferradji  mohamed,Maitre de conferences classe B,TRUE,IFIA,IDTW,F3I,RSD,GL,2021-2022
+Filtrage des images médicales basé sur  l'EDP (EDP-based medical image filtering),BERRIMI  Fella,Maitre assistant classe A,TRUE,F3I,IFIA,GL,IDTW,RSD,2021-2022
+Détection d'objets (piétons) basée sur HOG (HOG based object detection (pedestrians)),BERRIMI  Fella,Maitre assistant classe A,TRUE,F3I,IFIA,GL,IDTW,RSD,2021-2022
+Path based approach for maximizing influence in signed social networks,BOURAS  IKRAM,Maitre assistant classe B,TRUE,IFIA,RSD,GL,IDTW,F3I,2021-2022
+New variant of facility location problem in network design,BOURAS  IKRAM,Maitre assistant classe B,TRUE,IFIA,RSD,GL,IDTW,F3I,2021-2022
+Approche bio-inspirée pour un routage adaptatif dans les MANETs,Kout  Akram,Maitre de conferences classe B) --> Hors département: Faculté de Biologie,TRUE,RSD,IFIA,GL,F3I,IDTW,2021-2022
+Solution Bio-inspirée pour le routage dans les VANETs,Kout  Akram,Maitre de conferences classe B) --> Hors département: Faculté de Biologie,TRUE,RSD,IFIA,GL,F3I,IDTW,2021-2022
+Planification automatique des cours en lignes basée sur les préférences des apprenants,Kosrane  Mohamed,Maitre assistant classe A) --> Hors département: Faculté d'économie,TRUE,GL,IFIA,IDTW,F3I,RSD,2021-2022
+Estimation des précipitations à partir des images satellitaires en utilisant les réseaux de neurones profonds,Bouaita  Bilal,Maitre de conferences classe B) --> Hors département: Faculté de technologie,TRUE,F3I,GL,IFIA,IDTW,RSD,2021-2022
+Intelligent Optimization Approaches for the QoS-Driven Services Composition Problem in Dynamic IoT Environments,SEGHIR  Fateh,Maitre de conferences classe B) --> Hors département: Faculté de technologie,TRUE,IFIA,IDTW,GL,F3I,RSD,2021-2022
+machine learning in forestry using remote sensing data,CHERGUI  Nabila,Maitre de conferences classe B) --> Hors département: Faculté de technologie,TRUE,IFIA,F3I,IDTW,RSD,GL,2021-2022
+HTTP-Get DoS Attack Detection using Ontology,Haddadi  Mohamed,"Maitre de conferences classe B) --> Hors département: Université de Boumerdes, Departement économie",TRUE,IFIA,RSD,IDTW,F3I,GL,2021-2022
+HTTP flood DoS attack detection using data mining,Haddadi  Mohamed,"Maitre de conferences classe B) --> Hors département: Université de Boumerdes, Departement économie",TRUE,IDTW,IFIA,RSD,GL,F3I,2021-2022
+Détecter les cyber-attaques en utilisant  data mining.techniques,Haddadi  Mohamed,"Maitre de conferences classe B) --> Hors département: Université de Boumerdes, Departement économie",TRUE,IDTW,IFIA,RSD,F3I,GL,2021-2022
+Détection de la falsification des données multimédia,Benmessahel  Bilel,Maitre de conferences classe B) --> Hors département: Faculté de technologie,TRUE,F3I,IFIA,IDTW,GL,RSD,2021-2022
+Sélection des caractéristiques  pour les données de grande dimension,Benmessahel  Bilel,Maitre de conferences classe B) --> Hors département: Faculté de technologie,FALSE,IFIA,IDTW,F3I,RSD,GL,2021-2022
+Développement d’une application mobile sur le Cloud Computing pour la gestion de projet,Annane  Boubakeur,Maitre assistant classe B,TRUE,GL,RSD,IFIA,IDTW,F3I,2021-2022
+Internet of Things Energy-Efficient routing protocol for eHealth systems,Zier  Abdelhak,Maitre assistant classe B,TRUE,RSD,IFIA,IDTW,F3I,GL,2021-2022
+Authentification sécurisée dans l’internet des drones,Harbi  Yasmine,Maitre assistant classe B,TRUE,RSD,IFIA,IDTW,F3I,GL,2021-2022
+Une approche de sélection des caractéristiques des composés dans les bases de données chimiques à la base d’un algorithme PSO pour améliorer les performances du processus du Criblage virtuel,BERRHAIL  Fouaz,Maitre de conferences classe B) --> Hors département: Faculte de technologie,TRUE,IFIA,IDTW,F3I,GL,,2021-2022
+Réalisation d’un système de détection des maladies végétales au niveau des serres agricoles par l’utilisation des techniques de l’intelligence artificiel et le traitement d’images,BERRHAIL  Fouaz,Maitre de conferences classe B) --> Hors département: Faculte de technologie,TRUE,IDTW,IFIA,F3I,GL,RSD,2021-2022
+Techniques de sélection de fonctionnalités par l’utilisation des algorithmes d'optimisation bio-inspirés avec apprentissage automatique,AYACHE  Farid,Maitre de conferences classe B) --> Hors département: Faculte de technologie,TRUE,IFIA,F3I,GL,IDTW,RSD,2021-2022

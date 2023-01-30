@@ -1,17 +1,18 @@
 from typing import List, Tuple, Dict
 import streamlit as st
 import pandas as pd
+import nltk
 
 # Custom packages
 from lib.preprocessing import prepare_data
 import streamlit_page.generalstats as generalstats
 import streamlit_page.teacherstats as teacherstats
 
-FILE_PATH = 'dataset/subjects_master_2022.csv'
+FILE_PATH = 'dataset/subjects_master.csv'
+
 
 
 def main():
-    path_to_data = ''
     df, exception = load_external_data(FILE_PATH)
     glb_stats = global_stats(df)
     create_layout(df, glb_stats)
@@ -39,6 +40,7 @@ def load_external_data(path: str) -> Tuple[pd.DataFrame, Exception]:
         df = prepare_data(path)
         return df, False
     except Exception as exception:
+        print("failed to load data")
         return False, exception
 
 
@@ -52,9 +54,14 @@ def global_stats(df: pd.DataFrame) -> Dict:
     Returns
     -------
     dictionary in the form 'global_stat_name:value'
+
+
     """
-    number_of_topics = len(df.index)
-    number_of_topics_taken = df['Taken'].value_counts()[1]
+
+    nltk.download('stopwords')
+    st.set_option('deprecation.showPyplotGlobalUse', False)
+    number_of_topics = df.shape[0]
+    number_of_topics_taken = df['Taken'].value_counts()[0]
     number_of_topics_not_taken = number_of_topics - number_of_topics_taken
     percentage_of_taken = round(number_of_topics_taken / number_of_topics * 100)
     # percentage_of_not_taken = round(number_of_topics_not_taken / number_of_topics * 100)
@@ -81,38 +88,32 @@ def load_homepage() -> None:
              use_column_width=True)
     st.markdown("> A Dashboard for Exploratory Data Analysis of proposed Master thesis subjects")
     st.markdown("""
-    After the release of the proposed thesis subjects, I was curious, and I had so many questions ... for example:
-- Most proposed subject (trending subject)
-- Most prioritized specialty in our department
-- Percentage of affected/unaffected topics.
-- What makes a topic undesirable (Why some topics didn't get chosen)
-So to kill my curiosity, I created an Interactive Dashboard to explore the data.
-Also, it felt like a nice opportunity to see how much information can be extracted from relatively simple data.
+    The following dashboard gives some insights on the subjects proposed for master's thesis. The
+Subjects were proposed by teachers so that master students can choose one as their subject.
+
+- Year: 2021-2022 and 2022-2023 school years.
+- University: Ferhat Abbas Setif 1.
+- Faculty: Faculty of Science.  
+- Department: Computer Science.
+
+The dashboard can answer some following questions, among other things:
+- What is the most proposed subject?
+- What is the most prioritized specialty in our department?
+- What is Percentage of affected/unaffected topics?
+- Is there a big difference between 2022 and 2023 subjects?
+- what kind of subjects that specific teacher likes to propose?
     """)
     st.markdown(
         "You can check the GITHUB repository for more information: [link](https://github.com/khaledbouabdallah/Master_Subjects_Analysis)")
-    st.markdown("<div align='center'><br>"
-                "<img src='https://img.shields.io/badge/MADE%20WITH-PYTHON%20-red?style=for-the-badge'"
-                "alt='API stability' height='25'/>"
-                "<img src='https://img.shields.io/badge/SERVED%20WITH-Heroku-blue?style=for-the-badge'"
-                "alt='API stability' height='25'/>"
-                "<img src='https://img.shields.io/badge/DASHBOARDING%20WITH-Streamlit-green?style=for-the-badge'"
-                "alt='API stability' height='25'/></div>", unsafe_allow_html=True)
+
     for i in range(3):
         st.write(" ")
-    st.header("📉 The Application 📉")
-    st.write("This application is a Streamlit dashboard hosted on Heroku that can be used to explore "
-             "the results from board game matches that I tracked over the last year.")
-    st.write("There are currently four pages available in the application:")
+    st.write("There are currently two pages available in the application:")
     st.subheader("📄 General Statistics 📄")
     st.markdown("* This page contains basic exploratory data analyses for the purpose"
                 " of getting a general feeling of what the data contains.")
-    st.subheader("📄 Teacher Statistics 📄")
-    st.markdown("* Coming Soon ")
-    st.subheader("📄 Speciality Statistics 📄")
-    st.markdown("* Coming Soon ")
-    st.subheader("📄 Subject Statistics 📄")
-    st.markdown("* Coming Soon ")
+    st.subheader("📄 Teacher Statistics 📄") #TODO: 
+    st.markdown("* This page contains additional information about each teacher. ") 
 
 
 def create_layout(df: pd.DataFrame, glb_stats: Dict) -> None:
@@ -129,8 +130,7 @@ def create_layout(df: pd.DataFrame, glb_stats: Dict) -> None:
     app_mode = st.sidebar.selectbox("Please select a page", ["Homepage",
                                                              "General Statistics",
                                                              "Teacher Statistics",
-                                                             "Speciality Statistics",
-                                                             "Subject Statistics"])
+                                                             ])
     if app_mode == 'Homepage':
         load_homepage()
     elif app_mode == "Instruction":
@@ -142,11 +142,6 @@ def create_layout(df: pd.DataFrame, glb_stats: Dict) -> None:
 
         teacherstats.load_page(df, glb_stats)
 
-    elif app_mode == "Speciality Statistics":
-        st.markdown("* Coming Soon ")
-
-    elif app_mode == "Subject Statistics":
-        st.markdown("* Coming Soon ")
 
 
 if __name__ == "__main__":

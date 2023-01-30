@@ -3,6 +3,11 @@ import pandas as pd
 import altair as alt
 import streamlit as st
 from typing import List, Tuple, Dict
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+import nltk
+from nltk.corpus import stopwords
+from copy import copy
 
 SPACES = '&nbsp;' * 10
 SPACES_NO_EMOJI = '&nbsp;' * 15
@@ -19,14 +24,21 @@ def load_page(df: pd.DataFrame,
         List of players that participated in the board games
     """
     # Prepare layout
-    selected_teacher = prepare_layout(global_stats['teacher list'])
-    df_teacher = df = df[df['Teacher']==selected_teacher]
+    selected_teacher,selected_year = prepare_layout(global_stats['teacher list'])
+    df_teacher = df[df['Teacher']==selected_teacher]
+    if selected_year == '2021-2022':
+        df_teacher = df_teacher[df_teacher['Academic-year']==selected_year]
+    elif selected_year == '2022-2023':
+        df_teacher = df_teacher[df_teacher['Academic-year']==selected_year]
+        
     # Visualizations
-    teacher_overview(df=df_teacher, global_stats=global_stats)
-    teacher_speciality_priority(df=df_teacher,global_stats=global_stats)
-    teacher_subjects_profile(df=df_teacher, global_stats=None)
-    similar_teachers(df=df_teacher, global_stats=None)
-    teacher_list_of_topics(df=df_teacher, global_stats=None)
+    if not df_teacher.shape[0]:
+        st.subheader("Teacher did not propose any subjects 😰")
+    else:
+        teacher_overview(df=df_teacher, global_stats=global_stats)
+        teacher_speciality_priority(df=df_teacher,global_stats=global_stats)
+        teacher_word_cloud(df=df_teacher, global_stats=None)
+        teacher_list_of_topics(df=df_teacher, global_stats=None)
 
 
 
@@ -47,22 +59,26 @@ def prepare_layout(player_list: List[str]) -> str:
     """
 
     st.sidebar.subheader("Choose a Teacher")
-    selected_player = st.sidebar.selectbox("To show the profile for this player", player_list, index=0)
-    st.title("🎲 Teacher Statistics for {}".format(selected_player))
+    
+    
+    teacher_list = copy(player_list)
+    teacher_list.sort()
+    selected_player = st.sidebar.selectbox("To show the profile for this player", teacher_list, index=0)
+    selected_year = st.sidebar.radio('Select Academic year',('Both Academic years','2022-2023','2021-2022'))
+    st.title("👨‍🏫 Teacher Statistics for {}".format(selected_player))
     st.markdown("There are several things you see on this page:".format(SPACES))
     st.markdown("{}🔹 An overview of the teacher".format(SPACES))
     st.markdown("{}🔹 Teacher speciality prioritizing".format(SPACES))
-    st.markdown("{}🔹 Teacher subjects profile.".format(SPACES))
-    st.markdown("{}🔹 Similar teachers.".format(SPACES))
+    st.markdown("{}🔹 Teacher subjects word cloud.".format(SPACES))
     st.markdown("{}🔹 List of Proposed topics.".format(SPACES))
     st.write(" ")
-    return selected_player
+    return selected_player,selected_year
 
 
 def teacher_overview(df: pd.DataFrame, global_stats: Dict) -> None:
     number_of_topics = len(df.index)
     grade = df['Grade'].iloc[0]
-    number_of_topics_taken = df['Taken'].value_counts()[1]
+    number_of_topics_taken = df['Taken'].value_counts()[0]
     number_of_topics_not_taken = number_of_topics - number_of_topics_taken
     percentage_of_taken = round(number_of_topics_taken / number_of_topics * 100)
     percentage_of_not_taken = round(number_of_topics_not_taken / number_of_topics * 100)
@@ -141,14 +157,24 @@ def teacher_speciality_priority(df: pd.DataFrame, global_stats: Dict) -> None:
         st.write(bars + text)
 
 
-def teacher_subjects_profile(df: pd.DataFrame, global_stats: Dict) -> None:
-    st.subheader('Subjects profile:')
-    st.markdown('incoming')
+def teacher_word_cloud(df: pd.DataFrame, global_stats: Dict) -> None:
+    st.subheader('Teacher subjects word cloud:')
+    st.markdown('The world cloud contains the most common words in the subjects titles proposed by this teacher:')
+    text = df['Title'].to_string()
 
+    # Remove French and English stopwords 
+    stop_words = set(stopwords.words("french") + stopwords.words("english"))
+    
+    text = ' '.join([word for word in text.split() if word.lower() not in stop_words])
 
-def similar_teachers(df: pd.DataFrame, global_stats: Dict) -> None:
-    st.subheader('Similar teachers:')
-    st.markdown('incoming')
+    # Create a wordcloud object
+    wordcloud = WordCloud().generate(text)
+
+    # Show the wordcloud in the app
+    plt.imshow(wordcloud, interpolation='bilinear')
+    plt.axis("off")
+    plt.show()
+    st.pyplot()
 
 
 def teacher_list_of_topics(df: pd.DataFrame, global_stats: Dict) -> None:

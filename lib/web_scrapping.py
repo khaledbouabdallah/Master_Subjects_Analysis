@@ -6,10 +6,10 @@ This script scrap master thesis topics data from my faculty website
 from bs4 import BeautifulSoup
 import re
 import os
-import json
 import pandas as pd
 
-DATA_PATH = "../htmls/"
+DATA_PATH = r"..\\htmls\\"
+
 
 articles = []
 for file_name in os.listdir(DATA_PATH):  # Iterate over the HTML raw files
@@ -58,4 +58,4 @@ for file_name in os.listdir(DATA_PATH):  # Iterate over the HTML raw files
 
 # Saving in CSV
 df =  pd.DataFrame(articles)
-df.to_csv('subjects_master_2023.csv', index=None)
+df.to_csv('subjects_master_2023_2.csv', index=None)

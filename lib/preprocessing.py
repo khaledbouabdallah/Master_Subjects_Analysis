@@ -18,8 +18,6 @@ def prepare_data(path: str) -> pd.DataFrame:
     """
 
     df = pd.read_csv(path)
-    df.Date = pd.to_datetime(df.Date)
-    df.Time = pd.to_datetime(df.Time)
     df['Grade'] = df['Grade'].apply(fix_faculty_typing)
     return df
 
