@@ -38,8 +38,8 @@
      Streamlit web application that allows the exploration of thesis topics data
     <br />
     <br />
-    <a href="https://khaledbouabdallah-master-subjects-analysis-app-g7r9hf.streamlit.app">View Web App</a>
-    ·
+    <a href="https://khaledbouabdallah-master-subjects-analysis-app-qo09qz.streamlit.app">View Web App</a>
+    
     <a href="https://github.com/khaledbouabdallah/Master_Subjects_Analysis/issues">Report Bug</a>
     ·
     <a href="https://github.com/khaledbouabdallah/Master_Subjects_Analysis/issues">Request Feature</a>
@@ -81,7 +81,7 @@
 
 > An Exploratory Data Analysis of proposed Master thesis subjects
 
-The following dashboard gives some insights on the subjects proposed for master's thesis. The
+The following dashboard gives some insights on the proposed subjects for master's thesis. The
 Subjects were proposed by teachers so that master students can choose one as their subject.
 
 - Year: 2021-2022 and 2022-2023 school years.
