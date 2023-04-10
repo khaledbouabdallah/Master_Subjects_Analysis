@@ -39,9 +39,7 @@
     <br />
     <br />
     <a href="https://khaledbouabdallah-master-subjects-analysis-app-qo09qz.streamlit.app">View Web App</a>
-    
     <a href="https://github.com/khaledbouabdallah/Master_Subjects_Analysis/issues">Report Bug</a>
-    ·
     <a href="https://github.com/khaledbouabdallah/Master_Subjects_Analysis/issues">Request Feature</a>
   </p>
 </div>
